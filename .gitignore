@@ -1,0 +1,57 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+tools/node_modules/
+.DS_Store
+
+# cópias de segurança e versões antigas do código (o git passa a ser o histórico)
+*_backup.py
+*_backup.js
+replay/exp2t_v1.py
+site_artifact/
+site/dados/*.bak
+
+# ensaios, capturas de tela, pids e saídas temporárias
+ensaio/
+saida/*.pid
+saida/http.log
+saida/pre17_bak/
+
+# dados brutos e derivados pesados — como regenerar: ver README.md
+data_tse/raw/*.zip
+data_tse/api2026/bu/
+data_tse/api2026/cs/
+data_tse/parquet_test/
+data_tse/parquet/locais_*.parquet
+data_tse/parquet/base_*.parquet
+data_tse/exp/*.parquet
+data_tse/sibila/
+data_tse/ext/
+data_tse/rel2026/rel.zip
+
+# histórico ciclo a ciclo da noite: completo até o fim da apuração (ciclo 319, 22:41),
+# depois só um instantâneo por hora e o último
+saida/historico/0[3-9]*.json.gz
+saida/historico/1*.json.gz
+!saida/historico/030*.json.gz
+!saida/historico/031*.json.gz
+!saida/historico/0338_*.json.gz
+!saida/historico/0398_*.json.gz
+!saida/historico/0458_*.json.gz
+!saida/historico/0518_*.json.gz
+!saida/historico/0578_*.json.gz
+!saida/historico/0638_*.json.gz
+!saida/historico/0698_*.json.gz
+!saida/historico/0758_*.json.gz
+!saida/historico/0818_*.json.gz
+!saida/historico/0878_*.json.gz
+!saida/historico/0938_*.json.gz
+!saida/historico/0998_*.json.gz
+!saida/historico/1058_*.json.gz
+!saida/historico/1117_*.json.gz
+!saida/historico/1142_1224.json.gz
+
+# conteúdo de terceiros (página e série de projeções do site original), fora do repositório
+recon/
+data_tse/rodrigo_apuracao_2026.json

@@ -1,0 +1,5 @@
+# usado na noite de 25/10/2026 com Python 3.12: pandas 3.0.6, numpy, scipy 1.18.1, pyarrow 25.0.1
+numpy
+pandas>=3.0
+pyarrow>=25
+scipy>=1.18

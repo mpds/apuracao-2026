@@ -1,0 +1,11 @@
+lendo votacao_secao_2022_BR.csv
+  2,000,000 linhas  2s
+  4,000,000 linhas  4s
+  5,380,736 linhas  5s
+2022 votacao: 1850892 linhas, 472028 seções, votos: 124252796
+NR_VOTAVEL
+13    60345999
+22    58206354
+96     3930765
+95     1769678
+Name: QT_VOTOS, dtype: int32

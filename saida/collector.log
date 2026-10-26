@@ -1,0 +1,1153 @@
+códigos: pleito 3221 eleição 6258
+carregando base do 1º turno…
+499103 seções, 5688 municípios | prior PT 49.0 | boot 150
+[16:52] ciclo 1    3s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 101 304=0 erro=0
+[16:54] ciclo 2   21s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 201 304=99 erro=1
+[16:54] ciclo 3    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 301 304=199 erro=1
+[16:55] ciclo 4    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 401 304=299 erro=1
+[16:56] ciclo 5    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 501 304=399 erro=1
+[16:57] ciclo 6    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 601 304=499 erro=1
+[16:58] ciclo 7    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 701 304=599 erro=1
+[16:59] ciclo 8    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 801 304=699 erro=1
+[17:00] ciclo 9    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 901 304=799 erro=1
+[17:01] ciclo 10    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1001 304=899 erro=1
+[17:02] ciclo 11    7s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1101 304=999 erro=1
+[17:03] ciclo 12    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1201 304=1099 erro=1
+[17:04] ciclo 13    4s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1301 304=1199 erro=1
+[17:07] ciclo 14   95s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1401 304=1289 erro=10
+[17:08] ciclo 15   40s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 0 mun lidos, 0 seç. sem votos, 20 UFs, req 1430 304=1310 erro=18
+[17:08] ciclo 16    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1530 304=1410 erro=18
+[17:09] ciclo 17    2s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1630 304=1510 erro=18
+[17:10] ciclo 18   10s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 71 mun lidos, 708 seç. sem votos, 28 UFs, req 1730 304=1610 erro=18
+[17:11] ciclo 19    3s | apurado  0.00% | PT 0.00 | proj PT 48.75 (preliminar) | 75 mun lidos, 718 seç. sem votos, 28 UFs, req 1834 304=1708 erro=18
+[17:12] ciclo 20    7s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 298 mun lidos, 1565 seç. sem votos, 28 UFs, req 2161 304=1786 erro=18
+[17:13] ciclo 21   28s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 2482 304=2107 erro=18
+[17:14] ciclo 22    9s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 2803 304=2428 erro=18
+[17:15] ciclo 23   38s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3124 304=2749 erro=18
+[17:17] ciclo 24   40s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3445 304=3070 erro=18
+[17:18] ciclo 25   41s | apurado  0.01% | PT 68.68 | proj PT 47.97 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3766 304=3391 erro=18
+códigos: pleito 3221 eleição 6258
+carregando base do 1º turno…
+499103 seções, 5688 municípios | prior PT 49.0 | boot 150
+retomando: 7 pontos, 298 municípios, ciclo 25
+[17:18] ciclo 26   31s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 322 304=0 erro=0
+[17:19] ciclo 27   20s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 643 304=321 erro=0
+[17:20] ciclo 28    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 964 304=642 erro=0
+[17:21] ciclo 29    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 1285 304=963 erro=0
+[17:22] ciclo 30    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 1606 304=1284 erro=0
+[17:23] ciclo 31    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 1927 304=1605 erro=0
+[17:24] ciclo 32    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 2248 304=1926 erro=0
+[17:25] ciclo 33    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 2569 304=2247 erro=0
+[17:26] ciclo 34    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 2890 304=2568 erro=0
+[17:27] ciclo 35    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3211 304=2889 erro=0
+[17:28] ciclo 36    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3532 304=3210 erro=0
+[17:29] ciclo 37    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 3853 304=3531 erro=0
+[17:30] ciclo 38    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 4174 304=3852 erro=0
+[17:31] ciclo 39    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 4495 304=4173 erro=0
+[17:32] ciclo 40    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 4816 304=4494 erro=0
+[17:33] ciclo 41    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 5137 304=4815 erro=0
+[17:34] ciclo 42    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 5458 304=5136 erro=0
+[17:35] ciclo 43    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 5779 304=5457 erro=0
+[17:36] ciclo 44    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 6100 304=5778 erro=0
+[17:37] ciclo 45    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 6421 304=6099 erro=0
+[17:38] ciclo 46    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 6742 304=6420 erro=0
+[17:39] ciclo 47    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 7063 304=6741 erro=0
+[17:40] ciclo 48    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 7384 304=7062 erro=0
+[17:41] ciclo 49    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 7705 304=7383 erro=0
+[17:42] ciclo 50    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 8026 304=7704 erro=0
+[17:43] ciclo 51    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 8347 304=8025 erro=0
+[17:44] ciclo 52    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 8668 304=8346 erro=0
+[17:45] ciclo 53    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 8989 304=8667 erro=0
+[17:46] ciclo 54    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 9310 304=8988 erro=0
+[17:47] ciclo 55    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 9631 304=9309 erro=0
+[17:48] ciclo 56    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 9952 304=9630 erro=0
+[17:49] ciclo 57    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 10273 304=9951 erro=0
+[17:50] ciclo 58    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 10594 304=10272 erro=0
+[17:51] ciclo 59    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 10915 304=10593 erro=0
+[17:52] ciclo 60    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 11236 304=10914 erro=0
+[17:53] ciclo 61    9s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 11557 304=11235 erro=0
+[17:54] ciclo 62    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 11878 304=11556 erro=0
+[17:55] ciclo 63    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 12199 304=11877 erro=0
+[17:56] ciclo 64    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 12520 304=12198 erro=0
+[17:57] ciclo 65    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 12841 304=12519 erro=0
+[17:58] ciclo 66    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 13162 304=12840 erro=0
+[17:59] ciclo 67    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 13483 304=13161 erro=0
+[18:00] ciclo 68    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 13804 304=13482 erro=0
+[18:01] ciclo 69    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 14125 304=13803 erro=0
+[18:02] ciclo 70    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 14446 304=14124 erro=0
+[18:03] ciclo 71    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 14767 304=14445 erro=0
+[18:04] ciclo 72    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 15088 304=14766 erro=0
+[18:05] ciclo 73    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 15409 304=15087 erro=0
+[18:06] ciclo 74    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 15730 304=15408 erro=0
+[18:07] ciclo 75    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 16051 304=15729 erro=0
+[18:08] ciclo 76    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 16372 304=16050 erro=0
+[18:09] ciclo 77    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 16693 304=16371 erro=0
+[18:10] ciclo 78    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 17014 304=16692 erro=0
+[18:11] ciclo 79    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 17335 304=17013 erro=0
+[18:12] ciclo 80    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 17656 304=17334 erro=0
+[18:13] ciclo 81    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 17977 304=17655 erro=0
+[18:14] ciclo 82    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 18298 304=17976 erro=0
+[18:15] ciclo 83    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 18619 304=18297 erro=0
+[18:16] ciclo 84    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 18940 304=18618 erro=0
+[18:17] ciclo 85    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 19261 304=18939 erro=0
+[18:18] ciclo 86    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 19582 304=19260 erro=0
+[18:19] ciclo 87    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 19903 304=19581 erro=0
+[18:20] ciclo 88    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 20224 304=19902 erro=0
+[18:21] ciclo 89    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 20545 304=20223 erro=0
+[18:22] ciclo 90    8s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 20866 304=20544 erro=0
+[18:23] ciclo 91    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 21187 304=20865 erro=0
+[18:24] ciclo 92    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 21508 304=21186 erro=0
+[18:25] ciclo 93    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 21829 304=21507 erro=0
+[18:26] ciclo 94    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 22150 304=21828 erro=0
+[18:27] ciclo 95    8s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 22471 304=22149 erro=0
+[18:28] ciclo 96    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 22792 304=22470 erro=0
+[18:29] ciclo 97    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 23113 304=22791 erro=0
+[18:30] ciclo 98    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 23434 304=23112 erro=0
+[18:31] ciclo 99    8s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 23755 304=23433 erro=0
+[18:32] ciclo 100    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 24076 304=23754 erro=0
+[18:33] ciclo 101    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 24397 304=24075 erro=0
+[18:34] ciclo 102    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 24718 304=24396 erro=0
+[18:35] ciclo 103    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 25039 304=24717 erro=0
+[18:36] ciclo 104    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 25360 304=25038 erro=0
+[18:37] ciclo 105    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 25681 304=25359 erro=0
+[18:38] ciclo 106    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 26002 304=25680 erro=0
+[18:39] ciclo 107    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 26323 304=26001 erro=0
+[18:40] ciclo 108    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 26644 304=26322 erro=0
+[18:41] ciclo 109    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 26965 304=26643 erro=0
+[18:42] ciclo 110    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 27286 304=26964 erro=0
+[18:43] ciclo 111    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 27607 304=27285 erro=0
+[18:44] ciclo 112    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 27928 304=27606 erro=0
+[18:45] ciclo 113    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 28249 304=27927 erro=0
+[18:46] ciclo 114    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 28570 304=28248 erro=0
+[18:47] ciclo 115    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 28891 304=28569 erro=0
+[18:48] ciclo 116    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 29212 304=28890 erro=0
+[18:49] ciclo 117    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 29533 304=29211 erro=0
+[18:50] ciclo 118    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 29854 304=29532 erro=0
+[18:51] ciclo 119    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 30175 304=29853 erro=0
+[18:52] ciclo 120    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 30496 304=30174 erro=0
+[18:53] ciclo 121   30s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 30817 304=30495 erro=0
+[18:54] ciclo 122    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 31138 304=30816 erro=0
+[18:55] ciclo 123   11s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 31459 304=31137 erro=0
+[18:56] ciclo 124    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 31780 304=31458 erro=0
+[18:57] ciclo 125    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 32101 304=31779 erro=0
+[18:58] ciclo 126    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 32422 304=32100 erro=0
+[18:59] ciclo 127    6s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 32743 304=32421 erro=0
+[19:00] ciclo 128    7s | apurado  0.01% | PT 68.68 | proj PT 48.74 (preliminar) | 292 mun lidos, 1565 seç. sem votos, 28 UFs, req 33064 304=32742 erro=0
+[19:01] ciclo 129   21s | apurado  0.25% | PT 54.77 | proj PT 51.05 (preliminar) | 292 mun lidos, 681 seç. sem votos, 28 UFs, req 33385 304=32916 erro=0
+[19:02] ciclo 130   14s | apurado  0.49% | PT 56.58 | proj PT 50.84 (preliminar) | 177 mun lidos, 113 seç. sem votos, 28 UFs, req 33591 304=33061 erro=0
+[19:03] ciclo 131   14s | apurado  0.51% | PT 55.60 | proj PT 51.18 (preliminar) | 120 mun lidos, 17 seç. sem votos, 28 UFs, req 33740 304=33104 erro=0
+[19:04] ciclo 132   11s | apurado  0.51% | PT 55.38 | proj PT 51.49 (preliminar) | 16 mun lidos, 8 seç. sem votos, 28 UFs, req 33785 304=33138 erro=0
+[19:05] ciclo 133   11s | apurado  0.51% | PT 55.35 | proj PT 51.54 (preliminar) | 6 mun lidos, 0 seç. sem votos, 28 UFs, req 33820 304=33167 erro=0
+[19:06] ciclo 134   11s | apurado  0.51% | PT 55.35 | proj PT 51.54 (preliminar) | 1 mun lidos, 0 seç. sem votos, 28 UFs, req 33850 304=33196 erro=0
+[19:07] ciclo 135   11s | apurado  0.51% | PT 55.34 | proj PT 51.53 (preliminar) | 1 mun lidos, 0 seç. sem votos, 28 UFs, req 33880 304=33224 erro=0
+[19:08] ciclo 136   11s | apurado  0.51% | PT 55.34 | proj PT 51.53 (preliminar) | 0 mun lidos, 0 seç. sem votos, 28 UFs, req 33909 304=33252 erro=0
+[19:09] ciclo 137   12s | apurado  0.54% | PT 56.03 | proj PT 51.56 (preliminar) | 48 mun lidos, 10 seç. sem votos, 28 UFs, req 33986 304=33281 erro=0
+[19:10] ciclo 138   17s | apurado  0.72% | PT 50.80 | proj PT 51.80 (preliminar) | 263 mun lidos, 17 seç. sem votos, 28 UFs, req 34278 304=33301 erro=0
+[19:11] ciclo 139   12s | apurado  0.73% | PT 50.88 | proj PT 51.81 (preliminar) | 28 mun lidos, 0 seç. sem votos, 28 UFs, req 34335 304=33329 erro=0
+[19:12] ciclo 140   12s | apurado  0.73% | PT 50.88 | proj PT 51.81 (preliminar) | 0 mun lidos, 0 seç. sem votos, 28 UFs, req 34364 304=33357 erro=0
+[19:13] ciclo 141   11s | apurado  0.73% | PT 50.88 | proj PT 51.81 (preliminar) | 0 mun lidos, 0 seç. sem votos, 28 UFs, req 34393 304=33385 erro=0
+[19:14] ciclo 142   13s | apurado  0.96% | PT 50.92 | proj PT 52.18 (preliminar) | 116 mun lidos, 0 seç. sem votos, 28 UFs, req 34538 304=33424 erro=0
+[19:15] ciclo 143   24s | apurado  1.90% | PT 52.03 | proj PT 52.04 (preliminar) | 652 mun lidos, 6 seç. sem votos, 28 UFs, req 35219 304=33580 erro=0
+códigos: pleito 3221 eleição 6258
+carregando base do 1º turno…
+499103 seções, 5688 municípios | prior PT 49.0 | boot 150
+retomando: 125 pontos, 894 municípios, ciclo 143
+[19:16] ciclo 144   61s | apurado  1.96% | PT 52.05 | proj PT 51.92 (preliminar) | 34+4443 mun lidos, 2 seç. sem votos, 28 UFs, req 4535 304=0 erro=0
+[19:18] ciclo 145   82s | apurado  2.06% | PT 51.85 | proj PT 51.96 faixa 49.96-53.96 P(PT)=0.95 | 8+5074 mun lidos, 0 seç. sem votos, 28 UFs, req 9674 304=4353 erro=2
+[19:19] ciclo 146   70s | apurado  2.22% | PT 51.73 | proj PT 52.45 faixa 49.30-55.61 P(PT)=0.90 | 1+5123 mun lidos, 0 seç. sem votos, 28 UFs, req 14855 304=9012 erro=5
+[19:20] ciclo 147   58s | apurado  2.32% | PT 51.67 | proj PT 52.31 faixa 49.25-55.37 P(PT)=0.89 | 174+4211 mun lidos, 17 seç. sem votos, 28 UFs, req 19297 304=13298 erro=5
+[19:22] ciclo 148  109s | apurado  2.45% | PT 51.45 | proj PT 51.96 faixa 50.05-53.88 P(PT)=0.95 | 401+4969 mun lidos, 50 seç. sem votos, 28 UFs, req 24724 304=18542 erro=6
+[19:24] ciclo 149  116s | apurado  2.85% | PT 51.21 | proj PT 52.15 faixa 50.56-53.73 P(PT)=0.99 | 62+5299 mun lidos, 0 seç. sem votos, 28 UFs, req 30142 304=23552 erro=6
+[19:25] ciclo 150  103s | apurado  3.31% | PT 51.22 | proj PT 52.52 faixa 50.54-54.50 P(PT)=0.98 | 76+5374 mun lidos, 24 seç. sem votos, 28 UFs, req 35649 304=28481 erro=6
+[19:27] ciclo 151  102s | apurado  3.69% | PT 51.22 | proj PT 52.34 faixa 51.28-53.41 P(PT)=1.00 | 759+4632 mun lidos, 33 seç. sem votos, 28 UFs, req 41097 304=33538 erro=6
+[19:29] ciclo 152   95s | apurado  4.38% | PT 51.24 | proj PT 52.41 faixa 51.11-53.71 P(PT)=1.00 | 51+5304 mun lidos, 0 seç. sem votos, 28 UFs, req 46509 304=38372 erro=6
+[19:30] ciclo 153  101s | apurado  4.90% | PT 51.04 | proj PT 52.51 faixa 50.23-54.79 P(PT)=0.97 | 248+5194 mun lidos, 81 seç. sem votos, 28 UFs, req 52008 304=43369 erro=6
+[19:32] ciclo 154  117s | apurado  5.49% | PT 51.02 | proj PT 51.86 faixa 50.84-52.89 P(PT)=1.00 | 911+4551 mun lidos, 51 seç. sem votos, 28 UFs, req 57527 304=48364 erro=6
+[19:34] ciclo 155  115s | apurado  6.82% | PT 50.53 | proj PT 52.42 faixa 50.30-54.54 P(PT)=0.97 | 72+5247 mun lidos, 1 seç. sem votos, 28 UFs, req 62903 304=52969 erro=6
+[19:36] ciclo 156  104s | apurado  7.54% | PT 50.63 | proj PT 52.38 faixa 50.57-54.19 P(PT)=0.98 | 1058+4298 mun lidos, 307 seç. sem votos, 28 UFs, req 68316 304=57739 erro=6
+[19:38] ciclo 157   94s | apurado  8.63% | PT 50.55 | proj PT 52.08 faixa 49.99-54.18 P(PT)=0.95 | 439+4936 mun lidos, 6 seç. sem votos, 28 UFs, req 73748 304=62377 erro=6
+[19:39] ciclo 158   94s | apurado  9.52% | PT 50.40 | proj PT 51.49 faixa 49.67-53.32 P(PT)=0.91 | 13+5394 mun lidos, 0 seç. sem votos, 28 UFs, req 79212 304=67209 erro=6
+[19:41] ciclo 159   91s | apurado 10.22% | PT 50.42 | proj PT 51.51 faixa 50.66-52.36 P(PT)=1.00 | 984+4509 mun lidos, 180 seç. sem votos, 28 UFs, req 84762 304=72211 erro=6
+[19:42] ciclo 160   91s | apurado 11.15% | PT 50.29 | proj PT 51.54 faixa 50.69-52.40 P(PT)=1.00 | 571+4810 mun lidos, 19 seç. sem votos, 28 UFs, req 90200 304=76866 erro=6
+[19:44] ciclo 161   94s | apurado 12.03% | PT 50.22 | proj PT 51.34 faixa 50.49-52.19 P(PT)=1.00 | 18+5322 mun lidos, 0 seç. sem votos, 28 UFs, req 95597 304=81629 erro=6
+[19:45] ciclo 162   99s | apurado 13.00% | PT 50.10 | proj PT 51.61 faixa 50.85-52.37 P(PT)=1.00 | 295+4964 mun lidos, 50 seç. sem votos, 28 UFs, req 100913 304=86245 erro=6
+[19:47] ciclo 163  110s | apurado 13.69% | PT 50.06 | proj PT 51.67 faixa 50.90-52.44 P(PT)=1.00 | 1167+4201 mun lidos, 9 seç. sem votos, 28 UFs, req 106338 304=91081 erro=6
+[19:49] ciclo 164  111s | apurado 14.89% | PT 49.89 | proj PT 51.54 faixa 50.85-52.23 P(PT)=1.00 | 60+5185 mun lidos, 0 seç. sem votos, 28 UFs, req 111640 304=95607 erro=7
+[19:51] ciclo 165  117s | apurado 15.26% | PT 49.91 | proj PT 51.60 faixa 50.95-52.24 P(PT)=1.00 | 792+4383 mun lidos, 78 seç. sem votos, 28 UFs, req 116872 304=100471 erro=8
+[19:53] ciclo 166  118s | apurado 15.41% | PT 49.91 | proj PT 51.64 faixa 50.53-52.75 P(PT)=0.99 | 662+4541 mun lidos, 95 seç. sem votos, 28 UFs, req 122132 304=105604 erro=14
+[19:55] ciclo 167  111s | apurado 16.73% | PT 49.71 | proj PT 51.21 faixa 50.41-52.00 P(PT)=0.99 | 408+4839 mun lidos, 16 seç. sem votos, 28 UFs, req 127436 304=110101 erro=14
+[19:57] ciclo 168  105s | apurado 17.78% | PT 49.68 | proj PT 51.62 faixa 50.81-52.42 P(PT)=1.00 | 1021+4219 mun lidos, 33 seç. sem votos, 28 UFs, req 132733 304=114669 erro=14
+[19:58] ciclo 169   98s | apurado 19.39% | PT 49.51 | proj PT 51.33 faixa 50.43-52.24 P(PT)=0.99 | 87+5075 mun lidos, 0 seç. sem votos, 28 UFs, req 137952 304=119021 erro=14
+[20:00] ciclo 170   93s | apurado 20.61% | PT 49.38 | proj PT 51.26 faixa 50.38-52.15 P(PT)=0.99 | 9+5122 mun lidos, 0 seç. sem votos, 28 UFs, req 143140 304=123444 erro=14
+[20:01] ciclo 171   92s | apurado 21.55% | PT 49.47 | proj PT 51.49 faixa 50.72-52.25 P(PT)=1.00 | 1241+3819 mun lidos, 0 seç. sem votos, 28 UFs, req 148257 304=127877 erro=14
+[20:03] ciclo 172   96s | apurado 22.92% | PT 49.39 | proj PT 51.42 faixa 50.73-52.11 P(PT)=1.00 | 9+5037 mun lidos, 0 seç. sem votos, 28 UFs, req 153360 304=132187 erro=14
+[20:04] ciclo 173   87s | apurado 24.30% | PT 49.39 | proj PT 51.35 faixa 50.70-52.00 P(PT)=1.00 | 8+4985 mun lidos, 0 seç. sem votos, 28 UFs, req 158410 304=136443 erro=14
+[20:06] ciclo 174   87s | apurado 25.51% | PT 49.51 | proj PT 51.46 faixa 50.87-52.05 P(PT)=1.00 | 1321+3672 mun lidos, 0 seç. sem votos, 28 UFs, req 163460 304=140805 erro=14
+[20:07] ciclo 175   83s | apurado 27.03% | PT 49.46 | proj PT 51.54 faixa 50.92-52.16 P(PT)=1.00 | 84+4785 mun lidos, 0 seç. sem votos, 28 UFs, req 168386 304=144884 erro=14
+[20:09] ciclo 176   79s | apurado 28.32% | PT 49.51 | proj PT 51.46 faixa 50.89-52.04 P(PT)=1.00 | 10+4719 mun lidos, 0 seç. sem votos, 28 UFs, req 173172 304=148913 erro=14
+[20:10] ciclo 177   78s | apurado 29.59% | PT 49.46 | proj PT 51.42 faixa 50.71-52.13 P(PT)=1.00 | 11+4738 mun lidos, 0 seç. sem votos, 28 UFs, req 177978 304=153040 erro=14
+[20:11] ciclo 178   99s | apurado 30.75% | PT 49.56 | proj PT 51.65 faixa 51.38-51.91 P(PT)=1.00 | 1676+3172 mun lidos, 0 seç. sem votos, 28 UFs, req 182883 304=157231 erro=15
+[20:13] ciclo 179   78s | apurado 32.50% | PT 49.56 | proj PT 51.62 faixa 51.35-51.90 P(PT)=1.00 | 11+4573 mun lidos, 0 seç. sem votos, 28 UFs, req 187524 304=161035 erro=15
+[20:14] ciclo 180   80s | apurado 34.00% | PT 49.61 | proj PT 51.61 faixa 51.36-51.85 P(PT)=1.00 | 11+4564 mun lidos, 0 seç. sem votos, 28 UFs, req 192156 304=164901 erro=15
+[20:16] ciclo 181   84s | apurado 35.10% | PT 49.72 | proj PT 51.68 faixa 51.52-51.84 P(PT)=1.00 | 1327+3353 mun lidos, 54 seç. sem votos, 28 UFs, req 196893 304=168986 erro=15
+[20:17] ciclo 182   83s | apurado 36.64% | PT 49.57 | proj PT 51.68 faixa 51.49-51.87 P(PT)=1.00 | 394+3990 mun lidos, 0 seç. sem votos, 28 UFs, req 201334 304=172709 erro=15
+[20:18] ciclo 183   80s | apurado 38.28% | PT 49.64 | proj PT 51.69 faixa 51.48-51.90 P(PT)=1.00 | 14+4385 mun lidos, 0 seç. sem votos, 28 UFs, req 205790 304=176370 erro=15
+[20:19] ciclo 184   73s | apurado 39.51% | PT 49.69 | proj PT 51.69 faixa 51.52-51.86 P(PT)=1.00 | 12+4304 mun lidos, 0 seç. sem votos, 28 UFs, req 210163 304=180016 erro=15
+[20:21] ciclo 185   74s | apurado 40.58% | PT 49.80 | proj PT 51.72 faixa 51.62-51.82 P(PT)=1.00 | 1559+2913 mun lidos, 67 seç. sem votos, 28 UFs, req 214692 304=183930 erro=15
+[20:22] ciclo 186   75s | apurado 41.96% | PT 49.78 | proj PT 51.74 faixa 51.64-51.84 P(PT)=1.00 | 287+3868 mun lidos, 0 seç. sem votos, 28 UFs, req 218904 304=187428 erro=15
+[20:23] ciclo 187   77s | apurado 43.50% | PT 49.80 | proj PT 51.78 faixa 51.61-51.95 P(PT)=1.00 | 8+4057 mun lidos, 0 seç. sem votos, 28 UFs, req 223026 304=190859 erro=15
+[20:25] ciclo 188   89s | apurado 44.96% | PT 49.89 | proj PT 51.78 faixa 51.64-51.92 P(PT)=1.00 | 7+4049 mun lidos, 0 seç. sem votos, 28 UFs, req 227139 304=194221 erro=15
+[20:27] ciclo 189  124s | apurado 46.86% | PT 49.97 | proj PT 51.76 faixa 51.65-51.86 P(PT)=1.00 | 1547+2676 mun lidos, 1 seç. sem votos, 28 UFs, req 231419 304=197608 erro=17
+[20:28] ciclo 190   85s | apurado 48.91% | PT 50.02 | proj PT 51.75 faixa 51.65-51.85 P(PT)=1.00 | 8+3834 mun lidos, 0 seç. sem votos, 28 UFs, req 235318 304=200676 erro=17
+[20:30] ciclo 191  122s | apurado 51.14% | PT 50.09 | proj PT 51.74 faixa 51.63-51.86 P(PT)=1.00 | 1+3741 mun lidos, 0 seç. sem votos, 28 UFs, req 239117 304=203559 erro=17
+[20:34] ciclo 192  200s | apurado 52.77% | PT 50.21 | proj PT 51.74 faixa 51.65-51.83 P(PT)=1.00 | 1652+2303 mun lidos, 21 seç. sem votos, 28 UFs, req 243129 304=206784 erro=24
+[20:36] ciclo 193  124s | apurado 57.46% | PT 50.43 | proj PT 51.77 faixa 51.67-51.87 P(PT)=1.00 | 142+3418 mun lidos, 0 seç. sem votos, 28 UFs, req 246746 304=209088 erro=26
+[20:37] ciclo 194   93s | apurado 58.93% | PT 50.47 | proj PT 51.78 faixa 51.71-51.85 P(PT)=1.00 | 1373+2219 mun lidos, 0 seç. sem votos, 28 UFs, req 250395 304=212086 erro=26
+[20:38] ciclo 195   56s | apurado 60.70% | PT 50.52 | proj PT 51.77 faixa 51.69-51.84 P(PT)=1.00 | 7+3136 mun lidos, 0 seç. sem votos, 28 UFs, req 253595 304=214617 erro=26
+[20:39] ciclo 196   56s | apurado 61.86% | PT 50.58 | proj PT 51.76 faixa 51.68-51.83 P(PT)=1.00 | 6+3078 mun lidos, 0 seç. sem votos, 28 UFs, req 256736 304=217263 erro=26
+[20:40] ciclo 197   58s | apurado 63.01% | PT 50.61 | proj PT 51.75 faixa 51.70-51.80 P(PT)=1.00 | 544+2643 mun lidos, 0 seç. sem votos, 28 UFs, req 259980 304=219989 erro=26
+[20:41] ciclo 198   56s | apurado 64.24% | PT 50.72 | proj PT 51.80 faixa 51.74-51.85 P(PT)=1.00 | 839+2354 mun lidos, 0 seç. sem votos, 28 UFs, req 263230 304=222668 erro=26
+[20:42] ciclo 199   51s | apurado 65.34% | PT 50.80 | proj PT 51.81 faixa 51.74-51.87 P(PT)=1.00 | 8+2857 mun lidos, 0 seç. sem votos, 28 UFs, req 266152 304=225087 erro=26
+[20:43] ciclo 200   51s | apurado 66.59% | PT 50.85 | proj PT 51.82 faixa 51.75-51.90 P(PT)=1.00 | 8+2806 mun lidos, 0 seç. sem votos, 28 UFs, req 269023 304=227464 erro=26
+[20:44] ciclo 201   51s | apurado 67.74% | PT 50.85 | proj PT 51.82 faixa 51.74-51.89 P(PT)=1.00 | 8+2743 mun lidos, 0 seç. sem votos, 28 UFs, req 271831 304=229812 erro=26
+[20:45] ciclo 202   57s | apurado 68.60% | PT 50.90 | proj PT 51.79 faixa 51.74-51.83 P(PT)=1.00 | 1249+1797 mun lidos, 0 seç. sem votos, 28 UFs, req 274934 304=232443 erro=26
+[20:46] ciclo 203   48s | apurado 69.57% | PT 50.94 | proj PT 51.79 faixa 51.75-51.84 P(PT)=1.00 | 318+2366 mun lidos, 0 seç. sem votos, 28 UFs, req 277675 304=234775 erro=26
+[20:47] ciclo 204   45s | apurado 70.75% | PT 50.96 | proj PT 51.80 faixa 51.75-51.84 P(PT)=1.00 | 12+2511 mun lidos, 0 seç. sem votos, 28 UFs, req 280255 304=236853 erro=26
+[20:48] ciclo 205   46s | apurado 72.18% | PT 50.99 | proj PT 51.79 faixa 51.76-51.83 P(PT)=1.00 | 10+2468 mun lidos, 0 seç. sem votos, 28 UFs, req 282790 304=238865 erro=26
+[20:49] ciclo 206   42s | apurado 73.10% | PT 51.05 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 10+2371 mun lidos, 0 seç. sem votos, 28 UFs, req 285228 304=240926 erro=26
+[20:50] ciclo 207   49s | apurado 74.35% | PT 51.09 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 824+1794 mun lidos, 20 seç. sem votos, 28 UFs, req 287903 304=243116 erro=26
+[20:51] ciclo 208   45s | apurado 75.46% | PT 51.10 | proj PT 51.80 faixa 51.76-51.83 P(PT)=1.00 | 484+1915 mun lidos, 0 seç. sem votos, 28 UFs, req 290359 304=245124 erro=26
+[20:52] ciclo 209   42s | apurado 76.80% | PT 51.18 | proj PT 51.80 faixa 51.77-51.83 P(PT)=1.00 | 11+2137 mun lidos, 0 seç. sem votos, 28 UFs, req 292564 304=246901 erro=26
+[20:53] ciclo 210   41s | apurado 77.61% | PT 51.20 | proj PT 51.80 faixa 51.76-51.83 P(PT)=1.00 | 11+2071 mun lidos, 0 seç. sem votos, 28 UFs, req 294703 304=248703 erro=26
+[20:54] ciclo 211   41s | apurado 79.03% | PT 51.26 | proj PT 51.80 faixa 51.77-51.84 P(PT)=1.00 | 11+2005 mun lidos, 0 seç. sem votos, 28 UFs, req 296776 304=250331 erro=26
+[20:55] ciclo 212   41s | apurado 80.24% | PT 51.31 | proj PT 51.80 faixa 51.77-51.83 P(PT)=1.00 | 339+1719 mun lidos, 0 seç. sem votos, 28 UFs, req 298891 304=251993 erro=26
+[20:56] ciclo 213   42s | apurado 81.43% | PT 51.35 | proj PT 51.80 faixa 51.77-51.84 P(PT)=1.00 | 776+1367 mun lidos, 0 seç. sem votos, 28 UFs, req 301091 304=253763 erro=26
+[20:57] ciclo 214   36s | apurado 82.64% | PT 51.37 | proj PT 51.80 faixa 51.76-51.83 P(PT)=1.00 | 12+1719 mun lidos, 0 seç. sem votos, 28 UFs, req 302879 304=255211 erro=26
+[20:58] ciclo 215   39s | apurado 83.45% | PT 51.39 | proj PT 51.80 faixa 51.76-51.83 P(PT)=1.00 | 12+1677 mun lidos, 0 seç. sem votos, 28 UFs, req 304625 304=256620 erro=26
+[20:59] ciclo 216   35s | apurado 84.82% | PT 51.42 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 11+1615 mun lidos, 0 seç. sem votos, 28 UFs, req 306308 304=257899 erro=26
+[21:00] ciclo 217   37s | apurado 85.97% | PT 51.46 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 429+1249 mun lidos, 0 seç. sem votos, 28 UFs, req 308043 304=259221 erro=26
+[21:01] ciclo 218   37s | apurado 86.58% | PT 51.49 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 706+1002 mun lidos, 0 seç. sem votos, 28 UFs, req 309808 304=260702 erro=26
+[21:02] ciclo 219   29s | apurado 87.76% | PT 51.49 | proj PT 51.79 faixa 51.76-51.83 P(PT)=1.00 | 17+1357 mun lidos, 0 seç. sem votos, 28 UFs, req 311239 304=261833 erro=26
+[21:03] ciclo 220   28s | apurado 88.88% | PT 51.53 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 17+1282 mun lidos, 0 seç. sem votos, 28 UFs, req 312595 304=262897 erro=26
+[21:04] ciclo 221   28s | apurado 89.87% | PT 51.57 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 17+1180 mun lidos, 0 seç. sem votos, 28 UFs, req 313849 304=263870 erro=26
+[21:05] ciclo 222   31s | apurado 91.17% | PT 51.62 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 568+848 mun lidos, 0 seç. sem votos, 28 UFs, req 315322 304=265019 erro=26
+[21:06] ciclo 223   25s | apurado 92.34% | PT 51.65 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 367+894 mun lidos, 0 seç. sem votos, 28 UFs, req 316640 304=266027 erro=26
+[21:07] ciclo 224   20s | apurado 93.51% | PT 51.68 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 20+955 mun lidos, 0 seç. sem votos, 28 UFs, req 317672 304=266775 erro=26
+[21:08] ciclo 225   20s | apurado 94.68% | PT 51.71 | proj PT 51.79 faixa 51.76-51.82 P(PT)=1.00 | 19+916 mun lidos, 0 seç. sem votos, 28 UFs, req 318664 304=267521 erro=26
+[21:09] ciclo 226   20s | apurado 95.73% | PT 51.71 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 19+832 mun lidos, 0 seç. sem votos, 28 UFs, req 319572 304=268195 erro=26
+[21:10] ciclo 227   22s | apurado 97.08% | PT 51.72 | proj PT 51.79 faixa 51.76-51.83 P(PT)=1.00 | 414+606 mun lidos, 0 seç. sem votos, 28 UFs, req 320649 304=268952 erro=26
+[21:10] ciclo 228   18s | apurado 98.02% | PT 51.74 | proj PT 51.80 faixa 51.76-51.83 P(PT)=1.00 | 395+420 mun lidos, 0 seç. sem votos, 28 UFs, req 321521 304=269561 erro=26
+[21:11] ciclo 229   13s | apurado 99.17% | PT 51.75 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 18+441 mun lidos, 0 seç. sem votos, 28 UFs, req 322037 304=269876 erro=26
+[21:12] ciclo 230   11s | apurado 99.67% | PT 51.75 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 17+304 mun lidos, 0 seç. sem votos, 28 UFs, req 322415 304=270112 erro=26
+[21:13] ciclo 231    9s | apurado 99.73% | PT 51.75 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 17+213 mun lidos, 0 seç. sem votos, 28 UFs, req 322702 304=270314 erro=26
+[21:14] ciclo 232   15s | apurado 99.75% | PT 51.75 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 598+53 mun lidos, 0 seç. sem votos, 28 UFs, req 323410 304=270914 erro=26
+[21:15] ciclo 233   10s | apurado 99.76% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 207+41 mun lidos, 0 seç. sem votos, 28 UFs, req 323715 304=271169 erro=26
+[21:16] ciclo 234    8s | apurado 99.76% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 20+109 mun lidos, 0 seç. sem votos, 28 UFs, req 323901 304=271322 erro=26
+[21:17] ciclo 235    8s | apurado 99.77% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 19+116 mun lidos, 0 seç. sem votos, 28 UFs, req 324093 304=271480 erro=26
+[21:18] ciclo 236    8s | apurado 99.78% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 19+124 mun lidos, 0 seç. sem votos, 28 UFs, req 324293 304=271646 erro=26
+[21:19] ciclo 237   12s | apurado 99.78% | PT 51.76 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 73+66 mun lidos, 0 seç. sem votos, 28 UFs, req 324489 304=271783 erro=26
+[21:20] ciclo 238    8s | apurado 99.80% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 36+73 mun lidos, 0 seç. sem votos, 28 UFs, req 324655 304=271898 erro=26
+[21:21] ciclo 239    8s | apurado 99.80% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 18+81 mun lidos, 0 seç. sem votos, 28 UFs, req 324811 304=272018 erro=26
+[21:22] ciclo 240    8s | apurado 99.81% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 18+93 mun lidos, 0 seç. sem votos, 28 UFs, req 324979 304=272146 erro=26
+[21:23] ciclo 241   10s | apurado 99.82% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 18+87 mun lidos, 0 seç. sem votos, 28 UFs, req 325141 304=272269 erro=26
+[21:24] ciclo 242   10s | apurado 99.83% | PT 51.76 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 58+68 mun lidos, 0 seç. sem votos, 28 UFs, req 325324 304=272397 erro=26
+[21:25] ciclo 243    8s | apurado 99.84% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 25+90 mun lidos, 0 seç. sem votos, 28 UFs, req 325496 304=272523 erro=26
+[21:26] ciclo 244    8s | apurado 99.84% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 14+89 mun lidos, 0 seç. sem votos, 28 UFs, req 325656 304=272646 erro=26
+[21:27] ciclo 245    8s | apurado 99.84% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 8+84 mun lidos, 0 seç. sem votos, 28 UFs, req 325805 304=272766 erro=26
+[21:28] ciclo 246    7s | apurado 99.85% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 7+58 mun lidos, 0 seç. sem votos, 28 UFs, req 325927 304=272853 erro=26
+[21:29] ciclo 247   10s | apurado 99.86% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 29+27 mun lidos, 0 seç. sem votos, 28 UFs, req 326040 304=272908 erro=26
+[21:30] ciclo 248    8s | apurado 99.86% | PT 51.76 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 19+41 mun lidos, 0 seç. sem votos, 28 UFs, req 326157 304=272983 erro=26
+[21:31] ciclo 249    8s | apurado 99.87% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+53 mun lidos, 0 seç. sem votos, 28 UFs, req 326272 304=273064 erro=26
+[21:32] ciclo 250    7s | apurado 99.87% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 4+34 mun lidos, 0 seç. sem votos, 28 UFs, req 326367 304=273128 erro=26
+[21:33] ciclo 251    8s | apurado 99.87% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+21 mun lidos, 0 seç. sem votos, 28 UFs, req 326448 304=273177 erro=26
+[21:34] ciclo 252    8s | apurado 99.88% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 20+4 mun lidos, 0 seç. sem votos, 28 UFs, req 326529 304=273200 erro=26
+[21:35] ciclo 253    7s | apurado 99.88% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 7+26 mun lidos, 0 seç. sem votos, 28 UFs, req 326619 304=273255 erro=26
+[21:36] ciclo 254    7s | apurado 99.88% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+24 mun lidos, 0 seç. sem votos, 28 UFs, req 326703 304=273308 erro=26
+[21:37] ciclo 255    7s | apurado 99.89% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+32 mun lidos, 0 seç. sem votos, 28 UFs, req 326794 304=273366 erro=26
+[21:38] ciclo 256    7s | apurado 99.89% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+21 mun lidos, 0 seç. sem votos, 28 UFs, req 326873 304=273422 erro=26
+[21:39] ciclo 257    9s | apurado 99.89% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 17+10 mun lidos, 0 seç. sem votos, 28 UFs, req 326957 304=273448 erro=26
+[21:40] ciclo 258    7s | apurado 99.89% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+18 mun lidos, 0 seç. sem votos, 28 UFs, req 327035 304=273497 erro=26
+[21:41] ciclo 259    7s | apurado 99.89% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+18 mun lidos, 0 seç. sem votos, 28 UFs, req 327113 304=273547 erro=26
+[21:42] ciclo 260    7s | apurado 99.90% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+19 mun lidos, 0 seç. sem votos, 28 UFs, req 327191 304=273596 erro=26
+[21:43] ciclo 261    7s | apurado 99.90% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+30 mun lidos, 0 seç. sem votos, 28 UFs, req 327280 304=273649 erro=26
+[21:44] ciclo 262    8s | apurado 99.91% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 13+21 mun lidos, 0 seç. sem votos, 28 UFs, req 327371 304=273695 erro=26
+[21:45] ciclo 263    9s | apurado 99.91% | PT 51.77 | proj PT 51.78 faixa 51.75-51.82 P(PT)=1.00 | 10+20 mun lidos, 0 seç. sem votos, 28 UFs, req 327458 304=273738 erro=26
+[21:46] ciclo 264    7s | apurado 99.92% | PT 51.77 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+27 mun lidos, 0 seç. sem votos, 28 UFs, req 327547 304=273793 erro=26
+[21:47] ciclo 265    7s | apurado 99.92% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+29 mun lidos, 0 seç. sem votos, 28 UFs, req 327635 304=273847 erro=26
+[21:48] ciclo 266    7s | apurado 99.93% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+15 mun lidos, 0 seç. sem votos, 28 UFs, req 327708 304=273889 erro=26
+[21:49] ciclo 267    9s | apurado 99.93% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 16+6 mun lidos, 0 seç. sem votos, 28 UFs, req 327787 304=273911 erro=26
+[21:50] ciclo 268    7s | apurado 99.93% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+20 mun lidos, 0 seç. sem votos, 28 UFs, req 327869 304=273964 erro=26
+[21:51] ciclo 269    7s | apurado 99.93% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 4+21 mun lidos, 0 seç. sem votos, 28 UFs, req 327951 304=274014 erro=26
+[21:52] ciclo 270    7s | apurado 99.94% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+20 mun lidos, 0 seç. sem votos, 28 UFs, req 328030 304=274060 erro=26
+[21:53] ciclo 271    7s | apurado 99.94% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+20 mun lidos, 0 seç. sem votos, 28 UFs, req 328109 304=274111 erro=26
+[21:54] ciclo 272   10s | apurado 99.94% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 6+4 mun lidos, 0 seç. sem votos, 28 UFs, req 328176 304=274144 erro=26
+[21:55] ciclo 273    7s | apurado 99.94% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 7+4 mun lidos, 0 seç. sem votos, 28 UFs, req 328244 304=274176 erro=26
+[21:56] ciclo 274    6s | apurado 99.95% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+5 mun lidos, 0 seç. sem votos, 28 UFs, req 328308 304=274218 erro=26
+[21:57] ciclo 275    7s | apurado 99.95% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+7 mun lidos, 0 seç. sem votos, 28 UFs, req 328374 304=274256 erro=26
+[21:58] ciclo 276    7s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+5 mun lidos, 0 seç. sem votos, 28 UFs, req 328438 304=274292 erro=26
+[21:59] ciclo 277    8s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 7+13 mun lidos, 0 seç. sem votos, 28 UFs, req 328515 304=274319 erro=26
+[22:00] ciclo 278    7s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+8 mun lidos, 0 seç. sem votos, 28 UFs, req 328585 304=274353 erro=26
+[22:01] ciclo 279    7s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+10 mun lidos, 0 seç. sem votos, 28 UFs, req 328654 304=274393 erro=26
+[22:02] ciclo 280    7s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+12 mun lidos, 0 seç. sem votos, 28 UFs, req 328725 304=274437 erro=26
+[22:03] ciclo 281    8s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+11 mun lidos, 0 seç. sem votos, 28 UFs, req 328795 304=274481 erro=26
+[22:04] ciclo 282    9s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+7 mun lidos, 0 seç. sem votos, 28 UFs, req 328864 304=274499 erro=26
+[22:06] ciclo 283   27s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+9 mun lidos, 0 seç. sem votos, 27 UFs, req 328933 304=274537 erro=27
+[22:06] ciclo 284    8s | apurado 99.97% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+8 mun lidos, 0 seç. sem votos, 28 UFs, req 329001 304=274578 erro=27
+[22:07] ciclo 285    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+9 mun lidos, 0 seç. sem votos, 28 UFs, req 329069 304=274640 erro=27
+[22:08] ciclo 286    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 329128 304=274699 erro=27
+[22:09] ciclo 287    9s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 4+0 mun lidos, 0 seç. sem votos, 28 UFs, req 329189 304=274732 erro=27
+[22:10] ciclo 288    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+7 mun lidos, 0 seç. sem votos, 28 UFs, req 329255 304=274779 erro=27
+[22:11] ciclo 289    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+8 mun lidos, 0 seç. sem votos, 28 UFs, req 329322 304=274821 erro=27
+[22:12] ciclo 290    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+8 mun lidos, 0 seç. sem votos, 28 UFs, req 329389 304=274860 erro=27
+[22:13] ciclo 291    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+7 mun lidos, 0 seç. sem votos, 28 UFs, req 329455 304=274901 erro=27
+[22:14] ciclo 292    8s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 4+5 mun lidos, 13 seç. sem votos, 28 UFs, req 329521 304=274919 erro=27
+[22:15] ciclo 293    8s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+6 mun lidos, 0 seç. sem votos, 28 UFs, req 329586 304=274947 erro=27
+[22:16] ciclo 294    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+7 mun lidos, 0 seç. sem votos, 28 UFs, req 329651 304=274984 erro=27
+[22:17] ciclo 295    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 329710 304=275025 erro=27
+[22:18] ciclo 296    7s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 329768 304=275083 erro=27
+[22:19] ciclo 297    8s | apurado 99.98% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 5+0 mun lidos, 0 seç. sem votos, 28 UFs, req 329830 304=275116 erro=27
+[22:20] ciclo 298    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 329889 304=275156 erro=27
+[22:21] ciclo 299    8s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+4 mun lidos, 0 seç. sem votos, 28 UFs, req 329951 304=275192 erro=27
+[22:22] ciclo 300    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+4 mun lidos, 0 seç. sem votos, 28 UFs, req 330013 304=275226 erro=27
+[22:23] ciclo 301   13s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+4 mun lidos, 0 seç. sem votos, 28 UFs, req 330075 304=275260 erro=27
+[22:24] ciclo 302    8s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+3 mun lidos, 0 seç. sem votos, 28 UFs, req 330137 304=275279 erro=27
+[22:25] ciclo 303    8s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+4 mun lidos, 0 seç. sem votos, 28 UFs, req 330201 304=275303 erro=27
+[22:26] ciclo 304    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+5 mun lidos, 0 seç. sem votos, 28 UFs, req 330264 304=275338 erro=27
+[22:27] ciclo 305    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330322 304=275390 erro=27
+[22:28] ciclo 306    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330380 304=275448 erro=27
+[22:29] ciclo 307    9s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330440 304=275480 erro=27
+[22:30] ciclo 308    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330498 304=275538 erro=27
+[22:31] ciclo 309    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 330557 304=275584 erro=27
+[22:32] ciclo 310    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+4 mun lidos, 0 seç. sem votos, 28 UFs, req 330619 304=275618 erro=27
+[22:33] ciclo 311    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+3 mun lidos, 0 seç. sem votos, 28 UFs, req 330680 304=275659 erro=27
+[22:34] ciclo 312    9s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 3+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330740 304=275669 erro=27
+[22:35] ciclo 313    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330799 304=275703 erro=27
+[22:36] ciclo 314    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330857 304=275754 erro=27
+[22:37] ciclo 315    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 330915 304=275796 erro=27
+[22:38] ciclo 316    7s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+3 mun lidos, 0 seç. sem votos, 28 UFs, req 330976 304=275829 erro=27
+[22:39] ciclo 317   11s | apurado 99.99% | PT 51.78 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+2 mun lidos, 0 seç. sem votos, 28 UFs, req 331037 304=275837 erro=27
+[22:40] ciclo 318    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331096 304=275877 erro=27
+[22:41] ciclo 319    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331154 304=275935 erro=27
+[22:42] ciclo 320    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331212 304=275989 erro=27
+[22:43] ciclo 321    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+3 mun lidos, 0 seç. sem votos, 28 UFs, req 331273 304=276026 erro=27
+[22:44] ciclo 322    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+3 mun lidos, 0 seç. sem votos, 28 UFs, req 331335 304=276057 erro=27
+[22:45] ciclo 323    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331394 304=276085 erro=27
+[22:46] ciclo 324    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+3 mun lidos, 0 seç. sem votos, 28 UFs, req 331455 304=276118 erro=27
+[22:47] ciclo 325    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 331514 304=276173 erro=27
+[22:48] ciclo 326    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 331573 304=276231 erro=27
+[22:49] ciclo 327    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331632 304=276267 erro=27
+[22:50] ciclo 328    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331691 304=276320 erro=27
+[22:51] ciclo 329    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331749 304=276378 erro=27
+[22:52] ciclo 330    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331807 304=276436 erro=27
+[22:53] ciclo 331    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331865 304=276494 erro=27
+[22:54] ciclo 332    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331923 304=276552 erro=27
+[22:55] ciclo 333    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 331981 304=276610 erro=27
+[22:56] ciclo 334    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332039 304=276668 erro=27
+[22:57] ciclo 335    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332097 304=276726 erro=27
+[22:58] ciclo 336    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332155 304=276784 erro=27
+[22:59] ciclo 337    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332213 304=276842 erro=27
+[23:00] ciclo 338    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332271 304=276900 erro=27
+[23:01] ciclo 339    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332329 304=276958 erro=27
+[23:02] ciclo 340    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332387 304=277016 erro=27
+[23:03] ciclo 341    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332445 304=277074 erro=27
+[23:04] ciclo 342    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332503 304=277132 erro=27
+[23:05] ciclo 343    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332561 304=277190 erro=27
+[23:06] ciclo 344   10s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332619 304=277248 erro=27
+[23:07] ciclo 345    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332677 304=277306 erro=27
+[23:08] ciclo 346    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332735 304=277364 erro=27
+[23:09] ciclo 347    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332793 304=277422 erro=27
+[23:10] ciclo 348    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 332851 304=277460 erro=27
+[23:11] ciclo 349    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 332910 304=277511 erro=27
+[23:12] ciclo 350    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 332969 304=277569 erro=27
+[23:13] ciclo 351    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333027 304=277627 erro=27
+[23:14] ciclo 352    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333086 304=277659 erro=27
+[23:15] ciclo 353    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333144 304=277716 erro=27
+[23:16] ciclo 354    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333202 304=277774 erro=27
+[23:17] ciclo 355    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333260 304=277832 erro=27
+[23:18] ciclo 356    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333318 304=277890 erro=27
+[23:19] ciclo 357    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333376 304=277948 erro=27
+[23:20] ciclo 358    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333434 304=278006 erro=27
+[23:21] ciclo 359    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333492 304=278064 erro=27
+[23:22] ciclo 360    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333550 304=278122 erro=27
+[23:23] ciclo 361    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+1 mun lidos, 0 seç. sem votos, 28 UFs, req 333609 304=278157 erro=27
+[23:24] ciclo 362    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 2+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333668 304=278186 erro=27
+[23:25] ciclo 363    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333726 304=278241 erro=27
+[23:26] ciclo 364    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333784 304=278299 erro=27
+[23:27] ciclo 365    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333842 304=278345 erro=27
+[23:28] ciclo 366    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333900 304=278389 erro=27
+[23:29] ciclo 367    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 333958 304=278445 erro=27
+[23:30] ciclo 368    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 1+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334016 304=278502 erro=27
+[23:31] ciclo 369    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334073 304=278559 erro=27
+[23:32] ciclo 370    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334130 304=278616 erro=27
+[23:33] ciclo 371    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334187 304=278673 erro=27
+[23:34] ciclo 372    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334244 304=278730 erro=27
+[23:35] ciclo 373    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334301 304=278787 erro=27
+[23:36] ciclo 374    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334358 304=278844 erro=27
+[23:37] ciclo 375    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334415 304=278901 erro=27
+[23:38] ciclo 376    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334472 304=278958 erro=27
+[23:39] ciclo 377    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334529 304=279015 erro=27
+[23:40] ciclo 378    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334586 304=279072 erro=27
+[23:41] ciclo 379    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334643 304=279129 erro=27
+[23:42] ciclo 380    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334700 304=279186 erro=27
+[23:43] ciclo 381    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334757 304=279243 erro=27
+[23:44] ciclo 382    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334814 304=279300 erro=27
+[23:45] ciclo 383    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334871 304=279357 erro=27
+[23:46] ciclo 384    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334928 304=279414 erro=27
+[23:47] ciclo 385    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 334985 304=279471 erro=27
+[23:48] ciclo 386    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335042 304=279528 erro=27
+[23:49] ciclo 387    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335099 304=279585 erro=27
+[23:50] ciclo 388    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335156 304=279642 erro=27
+[23:51] ciclo 389    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335213 304=279699 erro=27
+[23:52] ciclo 390    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335270 304=279756 erro=27
+[23:53] ciclo 391    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335327 304=279813 erro=27
+[23:54] ciclo 392    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335384 304=279870 erro=27
+[23:55] ciclo 393    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335441 304=279927 erro=27
+[23:56] ciclo 394    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335498 304=279984 erro=27
+[23:57] ciclo 395    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335555 304=280041 erro=27
+[23:58] ciclo 396    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335612 304=280098 erro=27
+[23:59] ciclo 397    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335669 304=280155 erro=27
+[00:00] ciclo 398    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335726 304=280212 erro=27
+[00:01] ciclo 399    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335783 304=280269 erro=27
+[00:02] ciclo 400    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335840 304=280326 erro=27
+[00:03] ciclo 401    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335897 304=280383 erro=27
+[00:04] ciclo 402    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 335954 304=280440 erro=27
+[00:05] ciclo 403    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336011 304=280497 erro=27
+[00:06] ciclo 404    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336068 304=280554 erro=27
+[00:07] ciclo 405    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336125 304=280611 erro=27
+[00:08] ciclo 406    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336182 304=280668 erro=27
+[00:09] ciclo 407    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336239 304=280725 erro=27
+[00:10] ciclo 408    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336296 304=280782 erro=27
+[00:11] ciclo 409    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336353 304=280839 erro=27
+[00:12] ciclo 410    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336410 304=280896 erro=27
+[00:13] ciclo 411    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336467 304=280953 erro=27
+[00:14] ciclo 412    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336524 304=281010 erro=27
+[00:15] ciclo 413    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336581 304=281067 erro=27
+[00:16] ciclo 414    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336638 304=281124 erro=27
+[00:17] ciclo 415    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336695 304=281181 erro=27
+[00:18] ciclo 416    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336752 304=281238 erro=27
+[00:19] ciclo 417    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336809 304=281295 erro=27
+[00:20] ciclo 418    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336866 304=281352 erro=27
+[00:21] ciclo 419    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336923 304=281409 erro=27
+[00:22] ciclo 420    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 336980 304=281466 erro=27
+[00:23] ciclo 421    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337037 304=281523 erro=27
+[00:24] ciclo 422    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337094 304=281580 erro=27
+[00:25] ciclo 423    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337151 304=281637 erro=27
+[00:26] ciclo 424    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337208 304=281694 erro=27
+[00:27] ciclo 425    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337265 304=281751 erro=27
+[00:28] ciclo 426    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337322 304=281808 erro=27
+[00:29] ciclo 427    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337379 304=281865 erro=27
+[00:30] ciclo 428    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337436 304=281922 erro=27
+[00:31] ciclo 429    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337493 304=281979 erro=27
+[00:32] ciclo 430    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337550 304=282036 erro=27
+[00:33] ciclo 431    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337607 304=282093 erro=27
+[00:34] ciclo 432    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337664 304=282150 erro=27
+[00:35] ciclo 433    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337721 304=282207 erro=27
+[00:36] ciclo 434    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337778 304=282264 erro=27
+[00:37] ciclo 435    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337835 304=282321 erro=27
+[00:38] ciclo 436    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337892 304=282378 erro=27
+[00:39] ciclo 437    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 337949 304=282435 erro=27
+[00:40] ciclo 438    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338006 304=282492 erro=27
+[00:41] ciclo 439    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338063 304=282549 erro=27
+[00:42] ciclo 440    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338120 304=282606 erro=27
+[00:43] ciclo 441    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338177 304=282663 erro=27
+[00:44] ciclo 442    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338234 304=282720 erro=27
+[00:45] ciclo 443    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338291 304=282777 erro=27
+[00:46] ciclo 444    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338348 304=282834 erro=27
+[00:47] ciclo 445    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338405 304=282891 erro=27
+[00:48] ciclo 446    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338462 304=282948 erro=27
+[00:49] ciclo 447    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338519 304=283005 erro=27
+[00:50] ciclo 448    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338576 304=283062 erro=27
+[00:51] ciclo 449    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338633 304=283119 erro=27
+[00:52] ciclo 450    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338690 304=283176 erro=27
+[00:53] ciclo 451    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338747 304=283233 erro=27
+[00:54] ciclo 452    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338804 304=283290 erro=27
+[00:55] ciclo 453    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338861 304=283347 erro=27
+[00:56] ciclo 454    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338918 304=283404 erro=27
+[00:57] ciclo 455    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 338975 304=283461 erro=27
+[00:58] ciclo 456    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339032 304=283518 erro=27
+[00:59] ciclo 457    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339089 304=283575 erro=27
+[01:00] ciclo 458    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339146 304=283632 erro=27
+[01:01] ciclo 459    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339203 304=283689 erro=27
+[01:02] ciclo 460    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339260 304=283746 erro=27
+[01:03] ciclo 461    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339317 304=283803 erro=27
+[01:04] ciclo 462    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339374 304=283860 erro=27
+[01:05] ciclo 463    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339431 304=283917 erro=27
+[01:06] ciclo 464    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339488 304=283974 erro=27
+[01:07] ciclo 465    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339545 304=284031 erro=27
+[01:08] ciclo 466    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339602 304=284088 erro=27
+[01:09] ciclo 467    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339659 304=284145 erro=27
+[01:10] ciclo 468    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339716 304=284202 erro=27
+[01:11] ciclo 469    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339773 304=284259 erro=27
+[01:12] ciclo 470    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339830 304=284316 erro=27
+[01:13] ciclo 471    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339887 304=284373 erro=27
+[01:14] ciclo 472    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 339944 304=284430 erro=27
+[01:15] ciclo 473    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340001 304=284487 erro=27
+[01:16] ciclo 474    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340058 304=284544 erro=27
+[01:17] ciclo 475    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340115 304=284601 erro=27
+[01:18] ciclo 476    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340172 304=284658 erro=27
+[01:19] ciclo 477    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340229 304=284715 erro=27
+[01:20] ciclo 478    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340286 304=284772 erro=27
+[01:21] ciclo 479    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340343 304=284829 erro=27
+[01:22] ciclo 480    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340400 304=284886 erro=27
+[01:23] ciclo 481    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340457 304=284943 erro=27
+[01:24] ciclo 482    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340514 304=285000 erro=27
+[01:25] ciclo 483    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340571 304=285057 erro=27
+[01:26] ciclo 484    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340628 304=285114 erro=27
+[01:27] ciclo 485    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340685 304=285171 erro=27
+[01:28] ciclo 486    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340742 304=285228 erro=27
+[01:29] ciclo 487    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340799 304=285285 erro=27
+[01:30] ciclo 488    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340856 304=285342 erro=27
+[01:31] ciclo 489    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340913 304=285399 erro=27
+[01:32] ciclo 490    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 340970 304=285456 erro=27
+[01:33] ciclo 491    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341027 304=285513 erro=27
+[01:34] ciclo 492    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341084 304=285570 erro=27
+[01:35] ciclo 493    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341141 304=285627 erro=27
+[01:36] ciclo 494    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341198 304=285684 erro=27
+[01:37] ciclo 495    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341255 304=285741 erro=27
+[01:38] ciclo 496    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341312 304=285798 erro=27
+[01:39] ciclo 497    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341369 304=285855 erro=27
+[01:40] ciclo 498    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341426 304=285912 erro=27
+[01:41] ciclo 499    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341483 304=285969 erro=27
+[01:42] ciclo 500    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341540 304=286026 erro=27
+[01:43] ciclo 501    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341597 304=286083 erro=27
+[01:44] ciclo 502    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341654 304=286140 erro=27
+[01:45] ciclo 503    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341711 304=286197 erro=27
+[01:46] ciclo 504    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341768 304=286254 erro=27
+[01:47] ciclo 505    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341825 304=286311 erro=27
+[01:48] ciclo 506    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341882 304=286368 erro=27
+[01:49] ciclo 507    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341939 304=286425 erro=27
+[01:50] ciclo 508    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 341996 304=286482 erro=27
+[01:51] ciclo 509    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342053 304=286539 erro=27
+[01:52] ciclo 510    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342110 304=286596 erro=27
+[01:53] ciclo 511    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342167 304=286653 erro=27
+[01:54] ciclo 512    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342224 304=286710 erro=27
+[01:55] ciclo 513    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342281 304=286767 erro=27
+[01:56] ciclo 514    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342338 304=286824 erro=27
+[01:57] ciclo 515    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342395 304=286881 erro=27
+[01:58] ciclo 516    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342452 304=286938 erro=27
+[01:59] ciclo 517    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342509 304=286995 erro=27
+[02:00] ciclo 518    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342566 304=287052 erro=27
+[02:01] ciclo 519    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342623 304=287109 erro=27
+[02:02] ciclo 520    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342680 304=287166 erro=27
+[02:03] ciclo 521    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342737 304=287223 erro=27
+[02:04] ciclo 522    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342794 304=287280 erro=27
+[02:05] ciclo 523    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342851 304=287337 erro=27
+[02:06] ciclo 524    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342908 304=287394 erro=27
+[02:07] ciclo 525    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 342965 304=287451 erro=27
+[02:08] ciclo 526    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343022 304=287508 erro=27
+[02:09] ciclo 527    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343079 304=287565 erro=27
+[02:10] ciclo 528    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343136 304=287622 erro=27
+[02:11] ciclo 529    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343193 304=287679 erro=27
+[02:12] ciclo 530    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343250 304=287736 erro=27
+[02:13] ciclo 531    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343307 304=287793 erro=27
+[02:14] ciclo 532    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343364 304=287850 erro=27
+[02:15] ciclo 533    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343421 304=287907 erro=27
+[02:16] ciclo 534    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343478 304=287964 erro=27
+[02:17] ciclo 535    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343535 304=288021 erro=27
+[02:18] ciclo 536    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343592 304=288078 erro=27
+[02:19] ciclo 537    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343649 304=288135 erro=27
+[02:20] ciclo 538    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343706 304=288192 erro=27
+[02:21] ciclo 539    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343763 304=288249 erro=27
+[02:22] ciclo 540    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343820 304=288306 erro=27
+[02:23] ciclo 541    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343877 304=288363 erro=27
+[02:24] ciclo 542    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343934 304=288420 erro=27
+[02:25] ciclo 543    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 343991 304=288477 erro=27
+[02:26] ciclo 544    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344048 304=288534 erro=27
+[02:27] ciclo 545    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344105 304=288591 erro=27
+[02:28] ciclo 546    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344162 304=288648 erro=27
+[02:29] ciclo 547    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344219 304=288705 erro=27
+[02:30] ciclo 548    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344276 304=288762 erro=27
+[02:31] ciclo 549    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344333 304=288819 erro=27
+[02:32] ciclo 550    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344390 304=288876 erro=27
+[02:33] ciclo 551    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344447 304=288933 erro=27
+[02:34] ciclo 552    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344504 304=288990 erro=27
+[02:35] ciclo 553    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344561 304=289047 erro=27
+[02:36] ciclo 554    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344618 304=289104 erro=27
+[02:37] ciclo 555    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344675 304=289161 erro=27
+[02:38] ciclo 556    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344732 304=289218 erro=27
+[02:39] ciclo 557    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344789 304=289275 erro=27
+[02:40] ciclo 558    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344846 304=289332 erro=27
+[02:41] ciclo 559    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344903 304=289389 erro=27
+[02:42] ciclo 560    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 344960 304=289446 erro=27
+[02:43] ciclo 561    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345017 304=289503 erro=27
+[02:44] ciclo 562    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345074 304=289560 erro=27
+[02:45] ciclo 563    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345131 304=289617 erro=27
+[02:46] ciclo 564    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345188 304=289674 erro=27
+[02:47] ciclo 565    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345245 304=289731 erro=27
+[02:48] ciclo 566    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345302 304=289788 erro=27
+[02:49] ciclo 567    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345359 304=289845 erro=27
+[02:50] ciclo 568    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345416 304=289902 erro=27
+[02:51] ciclo 569    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345473 304=289959 erro=27
+[02:52] ciclo 570    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345530 304=290016 erro=27
+[02:53] ciclo 571    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345587 304=290073 erro=27
+[02:54] ciclo 572    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345644 304=290130 erro=27
+[02:55] ciclo 573    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345701 304=290187 erro=27
+[02:56] ciclo 574    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345758 304=290244 erro=27
+[02:57] ciclo 575    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345815 304=290301 erro=27
+[02:58] ciclo 576    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345872 304=290358 erro=27
+[02:59] ciclo 577    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345929 304=290415 erro=27
+[03:00] ciclo 578    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 345986 304=290472 erro=27
+[03:01] ciclo 579    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346043 304=290529 erro=27
+[03:02] ciclo 580    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346100 304=290586 erro=27
+[03:03] ciclo 581    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346157 304=290643 erro=27
+[03:04] ciclo 582    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346214 304=290700 erro=27
+[03:05] ciclo 583    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346271 304=290757 erro=27
+[03:06] ciclo 584    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346328 304=290814 erro=27
+[03:07] ciclo 585    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346385 304=290871 erro=27
+[03:08] ciclo 586    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346442 304=290928 erro=27
+[03:09] ciclo 587    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346499 304=290985 erro=27
+[03:10] ciclo 588    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346556 304=291042 erro=27
+[03:11] ciclo 589    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346613 304=291099 erro=27
+[03:12] ciclo 590    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346670 304=291156 erro=27
+[03:13] ciclo 591    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346727 304=291213 erro=27
+[03:14] ciclo 592    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346784 304=291270 erro=27
+[03:15] ciclo 593    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346841 304=291327 erro=27
+[03:16] ciclo 594    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346898 304=291384 erro=27
+[03:17] ciclo 595    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 346955 304=291441 erro=27
+[03:18] ciclo 596    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347012 304=291498 erro=27
+[03:19] ciclo 597    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347069 304=291555 erro=27
+[03:20] ciclo 598    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347126 304=291612 erro=27
+[03:21] ciclo 599    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347183 304=291669 erro=27
+[03:22] ciclo 600    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347240 304=291726 erro=27
+[03:23] ciclo 601    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347297 304=291783 erro=27
+[03:24] ciclo 602    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347354 304=291840 erro=27
+[03:25] ciclo 603    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347411 304=291897 erro=27
+[03:26] ciclo 604    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347468 304=291954 erro=27
+[03:27] ciclo 605    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347525 304=292011 erro=27
+[03:28] ciclo 606    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347582 304=292068 erro=27
+[03:29] ciclo 607    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347639 304=292125 erro=27
+[03:30] ciclo 608    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347696 304=292182 erro=27
+[03:31] ciclo 609    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347753 304=292239 erro=27
+[03:32] ciclo 610    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347810 304=292296 erro=27
+[03:33] ciclo 611    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347867 304=292353 erro=27
+[03:34] ciclo 612    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347924 304=292410 erro=27
+[03:35] ciclo 613    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 347981 304=292467 erro=27
+[03:36] ciclo 614    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348038 304=292524 erro=27
+[03:37] ciclo 615    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348095 304=292581 erro=27
+[03:38] ciclo 616    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348152 304=292638 erro=27
+[03:39] ciclo 617    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348209 304=292695 erro=27
+[03:40] ciclo 618    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348266 304=292752 erro=27
+[03:41] ciclo 619    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348323 304=292809 erro=27
+[03:42] ciclo 620    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348380 304=292866 erro=27
+[03:43] ciclo 621    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348437 304=292923 erro=27
+[03:44] ciclo 622    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348494 304=292980 erro=27
+[03:45] ciclo 623    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348551 304=293037 erro=27
+[03:46] ciclo 624    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348608 304=293093 erro=27
+[03:47] ciclo 625    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348665 304=293150 erro=27
+[03:48] ciclo 626    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348722 304=293207 erro=27
+[03:49] ciclo 627    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348779 304=293264 erro=27
+[03:50] ciclo 628    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348836 304=293321 erro=27
+[03:51] ciclo 629    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348893 304=293378 erro=27
+[03:52] ciclo 630    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 348950 304=293435 erro=27
+[03:53] ciclo 631    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349007 304=293492 erro=27
+[03:54] ciclo 632    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349064 304=293549 erro=27
+[03:55] ciclo 633    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349121 304=293606 erro=27
+[03:56] ciclo 634    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349178 304=293663 erro=27
+[03:57] ciclo 635    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349235 304=293720 erro=27
+[03:58] ciclo 636    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349292 304=293777 erro=27
+[03:59] ciclo 637    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349349 304=293834 erro=27
+[04:00] ciclo 638    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349406 304=293891 erro=27
+[04:01] ciclo 639    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349463 304=293948 erro=27
+[04:02] ciclo 640    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349520 304=294005 erro=27
+[04:03] ciclo 641    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349577 304=294062 erro=27
+[04:04] ciclo 642    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349634 304=294119 erro=27
+[04:05] ciclo 643    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349691 304=294176 erro=27
+[04:06] ciclo 644    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349748 304=294233 erro=27
+[04:07] ciclo 645    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349805 304=294290 erro=27
+[04:08] ciclo 646    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349862 304=294347 erro=27
+[04:09] ciclo 647    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349919 304=294404 erro=27
+[04:10] ciclo 648    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 349976 304=294461 erro=27
+[04:11] ciclo 649    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350033 304=294518 erro=27
+[04:12] ciclo 650    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350090 304=294575 erro=27
+[04:13] ciclo 651    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350147 304=294632 erro=27
+[04:14] ciclo 652    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350204 304=294689 erro=27
+[04:15] ciclo 653    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350261 304=294746 erro=27
+[04:16] ciclo 654    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350318 304=294803 erro=27
+[04:17] ciclo 655    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350375 304=294860 erro=27
+[04:18] ciclo 656    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350432 304=294917 erro=27
+[04:19] ciclo 657    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350489 304=294974 erro=27
+[04:20] ciclo 658    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350546 304=295031 erro=27
+[04:21] ciclo 659    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350603 304=295088 erro=27
+[04:22] ciclo 660    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350660 304=295145 erro=27
+[04:23] ciclo 661    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350717 304=295202 erro=27
+[04:24] ciclo 662    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350774 304=295259 erro=27
+[04:25] ciclo 663    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350831 304=295316 erro=27
+[04:26] ciclo 664    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350888 304=295373 erro=27
+[04:27] ciclo 665    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 350945 304=295430 erro=27
+[04:28] ciclo 666    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351002 304=295487 erro=27
+[04:29] ciclo 667    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351059 304=295544 erro=27
+[04:30] ciclo 668    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351116 304=295601 erro=27
+[04:31] ciclo 669    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351173 304=295658 erro=27
+[04:32] ciclo 670    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351230 304=295715 erro=27
+[04:33] ciclo 671    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351287 304=295772 erro=27
+[04:34] ciclo 672    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351344 304=295829 erro=27
+[04:35] ciclo 673    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351401 304=295886 erro=27
+[04:36] ciclo 674    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351458 304=295943 erro=27
+[04:37] ciclo 675    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351515 304=296000 erro=27
+[04:38] ciclo 676    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351572 304=296057 erro=27
+[04:39] ciclo 677    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351629 304=296114 erro=27
+[04:40] ciclo 678    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351686 304=296171 erro=27
+[04:41] ciclo 679    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351743 304=296228 erro=27
+[04:42] ciclo 680    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351800 304=296285 erro=27
+[04:43] ciclo 681    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351857 304=296342 erro=27
+[04:44] ciclo 682    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351914 304=296399 erro=27
+[04:45] ciclo 683    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 351971 304=296456 erro=27
+[04:46] ciclo 684    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352028 304=296513 erro=27
+[04:47] ciclo 685    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352085 304=296570 erro=27
+[04:48] ciclo 686    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352142 304=296627 erro=27
+[04:49] ciclo 687    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352199 304=296684 erro=27
+[04:50] ciclo 688    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352256 304=296741 erro=27
+[04:51] ciclo 689    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352313 304=296798 erro=27
+[04:52] ciclo 690    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352370 304=296855 erro=27
+[04:53] ciclo 691    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352427 304=296912 erro=27
+[04:54] ciclo 692    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352484 304=296969 erro=27
+[04:55] ciclo 693    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352541 304=297026 erro=27
+[04:56] ciclo 694    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352598 304=297083 erro=27
+[04:57] ciclo 695    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352655 304=297140 erro=27
+[04:58] ciclo 696    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352712 304=297197 erro=27
+[04:59] ciclo 697    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352769 304=297254 erro=27
+[05:00] ciclo 698    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352826 304=297311 erro=27
+[05:01] ciclo 699    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352883 304=297368 erro=27
+[05:02] ciclo 700    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352940 304=297425 erro=27
+[05:03] ciclo 701    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 352997 304=297482 erro=27
+[05:04] ciclo 702    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353054 304=297539 erro=27
+[05:05] ciclo 703    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353111 304=297596 erro=27
+[05:06] ciclo 704    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353168 304=297653 erro=27
+[05:07] ciclo 705    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353225 304=297710 erro=27
+[05:08] ciclo 706    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353282 304=297767 erro=27
+[05:09] ciclo 707    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353339 304=297824 erro=27
+[05:10] ciclo 708    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353396 304=297881 erro=27
+[05:11] ciclo 709    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353453 304=297938 erro=27
+[05:12] ciclo 710    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353510 304=297995 erro=27
+[05:13] ciclo 711    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353567 304=298052 erro=27
+[05:14] ciclo 712    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353624 304=298109 erro=27
+[05:15] ciclo 713    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353681 304=298166 erro=27
+[05:16] ciclo 714    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353738 304=298223 erro=27
+[05:17] ciclo 715    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353795 304=298280 erro=27
+[05:18] ciclo 716    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353852 304=298337 erro=27
+[05:19] ciclo 717    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353909 304=298394 erro=27
+[05:20] ciclo 718    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 353966 304=298451 erro=27
+[05:21] ciclo 719    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354023 304=298508 erro=27
+[05:22] ciclo 720    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354080 304=298565 erro=27
+[05:23] ciclo 721    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354137 304=298622 erro=27
+[05:24] ciclo 722    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354194 304=298679 erro=27
+[05:25] ciclo 723    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354251 304=298736 erro=27
+[05:26] ciclo 724    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354308 304=298793 erro=27
+[05:27] ciclo 725    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354365 304=298850 erro=27
+[05:28] ciclo 726    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354422 304=298907 erro=27
+[05:29] ciclo 727    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354479 304=298964 erro=27
+[05:30] ciclo 728    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354536 304=299021 erro=27
+[05:31] ciclo 729    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354593 304=299078 erro=27
+[05:32] ciclo 730    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354650 304=299135 erro=27
+[05:33] ciclo 731    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354707 304=299192 erro=27
+[05:34] ciclo 732    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354764 304=299249 erro=27
+[05:35] ciclo 733    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354821 304=299306 erro=27
+[05:36] ciclo 734    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354878 304=299363 erro=27
+[05:37] ciclo 735    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354935 304=299420 erro=27
+[05:38] ciclo 736    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 354992 304=299477 erro=27
+[05:39] ciclo 737    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355049 304=299534 erro=27
+[05:40] ciclo 738    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355106 304=299591 erro=27
+[05:41] ciclo 739    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355163 304=299648 erro=27
+[05:42] ciclo 740    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355220 304=299705 erro=27
+[05:43] ciclo 741    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355277 304=299762 erro=27
+[05:44] ciclo 742    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355334 304=299819 erro=27
+[05:45] ciclo 743    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355391 304=299876 erro=27
+[05:46] ciclo 744    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355448 304=299933 erro=27
+[05:47] ciclo 745    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355505 304=299990 erro=27
+[05:48] ciclo 746    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355562 304=300047 erro=27
+[05:49] ciclo 747    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355619 304=300104 erro=27
+[05:50] ciclo 748    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355676 304=300161 erro=27
+[05:51] ciclo 749    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355733 304=300218 erro=27
+[05:52] ciclo 750    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355790 304=300275 erro=27
+[05:53] ciclo 751    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355847 304=300332 erro=27
+[05:54] ciclo 752    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355904 304=300389 erro=27
+[05:55] ciclo 753    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 355961 304=300446 erro=27
+[05:56] ciclo 754    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356018 304=300503 erro=27
+[05:57] ciclo 755    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356075 304=300560 erro=27
+[05:58] ciclo 756    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356132 304=300617 erro=27
+[05:59] ciclo 757    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356189 304=300674 erro=27
+[06:00] ciclo 758    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356246 304=300731 erro=27
+[06:01] ciclo 759    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356303 304=300788 erro=27
+[06:02] ciclo 760    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356360 304=300845 erro=27
+[06:03] ciclo 761    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356417 304=300902 erro=27
+[06:04] ciclo 762    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356474 304=300959 erro=27
+[06:05] ciclo 763    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356531 304=301016 erro=27
+[06:06] ciclo 764    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356588 304=301073 erro=27
+[06:07] ciclo 765    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356645 304=301130 erro=27
+[06:08] ciclo 766    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356702 304=301187 erro=27
+[06:09] ciclo 767    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356759 304=301244 erro=27
+[06:10] ciclo 768    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356816 304=301301 erro=27
+[06:11] ciclo 769    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356873 304=301358 erro=27
+[06:12] ciclo 770    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356930 304=301415 erro=27
+[06:13] ciclo 771    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 356987 304=301472 erro=27
+[06:14] ciclo 772    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357044 304=301529 erro=27
+[06:15] ciclo 773    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357101 304=301586 erro=27
+[06:16] ciclo 774    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357158 304=301643 erro=27
+[06:17] ciclo 775    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357215 304=301700 erro=27
+[06:18] ciclo 776    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357272 304=301757 erro=27
+[06:19] ciclo 777    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357329 304=301814 erro=27
+[06:20] ciclo 778    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357386 304=301871 erro=27
+[06:21] ciclo 779    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357443 304=301928 erro=27
+[06:22] ciclo 780    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357500 304=301985 erro=27
+[06:23] ciclo 781    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357557 304=302042 erro=27
+[06:24] ciclo 782    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357614 304=302099 erro=27
+[06:25] ciclo 783    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357671 304=302156 erro=27
+[06:26] ciclo 784    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357728 304=302213 erro=27
+[06:27] ciclo 785    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357785 304=302270 erro=27
+[06:28] ciclo 786    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357842 304=302327 erro=27
+[06:29] ciclo 787    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357899 304=302384 erro=27
+[06:30] ciclo 788    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 357956 304=302441 erro=27
+[06:31] ciclo 789    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358013 304=302498 erro=27
+[06:32] ciclo 790    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358070 304=302555 erro=27
+[06:33] ciclo 791    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358127 304=302612 erro=27
+[06:34] ciclo 792    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358184 304=302669 erro=27
+[06:35] ciclo 793    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358241 304=302726 erro=27
+[06:36] ciclo 794    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358298 304=302783 erro=27
+[06:37] ciclo 795    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358355 304=302840 erro=27
+[06:38] ciclo 796    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358412 304=302897 erro=27
+[06:39] ciclo 797    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358469 304=302954 erro=27
+[06:40] ciclo 798    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358526 304=303011 erro=27
+[06:41] ciclo 799    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358583 304=303068 erro=27
+[06:42] ciclo 800    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358640 304=303125 erro=27
+[06:43] ciclo 801    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358697 304=303182 erro=27
+[06:44] ciclo 802    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358754 304=303239 erro=27
+[06:45] ciclo 803    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358811 304=303296 erro=27
+[06:46] ciclo 804    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358868 304=303353 erro=27
+[06:47] ciclo 805    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358925 304=303410 erro=27
+[06:48] ciclo 806    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 358982 304=303467 erro=27
+[06:49] ciclo 807    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359039 304=303524 erro=27
+[06:50] ciclo 808    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359096 304=303581 erro=27
+[06:51] ciclo 809    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359153 304=303638 erro=27
+[06:52] ciclo 810    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359210 304=303695 erro=27
+[06:53] ciclo 811    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359267 304=303752 erro=27
+[06:54] ciclo 812    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359324 304=303809 erro=27
+[06:55] ciclo 813    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359381 304=303866 erro=27
+[06:56] ciclo 814    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359438 304=303923 erro=27
+[06:57] ciclo 815    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359495 304=303980 erro=27
+[06:58] ciclo 816    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359552 304=304037 erro=27
+[06:59] ciclo 817    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359609 304=304094 erro=27
+[07:00] ciclo 818    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359666 304=304151 erro=27
+[07:01] ciclo 819    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359723 304=304208 erro=27
+[07:02] ciclo 820    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359780 304=304265 erro=27
+[07:03] ciclo 821    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359837 304=304322 erro=27
+[07:04] ciclo 822    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359894 304=304379 erro=27
+[07:05] ciclo 823    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 359951 304=304436 erro=27
+[07:06] ciclo 824    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360008 304=304493 erro=27
+[07:07] ciclo 825    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360065 304=304550 erro=27
+[07:08] ciclo 826    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360122 304=304607 erro=27
+[07:09] ciclo 827    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360179 304=304664 erro=27
+[07:10] ciclo 828    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360236 304=304721 erro=27
+[07:11] ciclo 829    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360293 304=304778 erro=27
+[07:12] ciclo 830    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360350 304=304835 erro=27
+[07:13] ciclo 831    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360407 304=304892 erro=27
+[07:14] ciclo 832    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360464 304=304949 erro=27
+[07:15] ciclo 833    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360521 304=305006 erro=27
+[07:16] ciclo 834    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360578 304=305063 erro=27
+[07:17] ciclo 835    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360635 304=305120 erro=27
+[07:18] ciclo 836    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360692 304=305177 erro=27
+[07:19] ciclo 837    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360749 304=305234 erro=27
+[07:20] ciclo 838    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360806 304=305291 erro=27
+[07:21] ciclo 839    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360863 304=305348 erro=27
+[07:22] ciclo 840    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360920 304=305405 erro=27
+[07:23] ciclo 841    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 360977 304=305462 erro=27
+[07:24] ciclo 842    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361034 304=305519 erro=27
+[07:25] ciclo 843    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361091 304=305576 erro=27
+[07:26] ciclo 844    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361148 304=305633 erro=27
+[07:27] ciclo 845    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361205 304=305690 erro=27
+[07:28] ciclo 846    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361262 304=305747 erro=27
+[07:29] ciclo 847    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361319 304=305804 erro=27
+[07:30] ciclo 848    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361376 304=305861 erro=27
+[07:31] ciclo 849    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361433 304=305918 erro=27
+[07:32] ciclo 850    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361490 304=305975 erro=27
+[07:33] ciclo 851    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361547 304=306032 erro=27
+[07:34] ciclo 852    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361604 304=306089 erro=27
+[07:35] ciclo 853    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361661 304=306146 erro=27
+[07:36] ciclo 854    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361718 304=306203 erro=27
+[07:37] ciclo 855    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361775 304=306260 erro=27
+[07:38] ciclo 856    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361832 304=306317 erro=27
+[07:39] ciclo 857    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361889 304=306374 erro=27
+[07:40] ciclo 858    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 361946 304=306431 erro=27
+[07:41] ciclo 859    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362003 304=306488 erro=27
+[07:42] ciclo 860    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362060 304=306545 erro=27
+[07:43] ciclo 861    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362117 304=306602 erro=27
+[07:44] ciclo 862    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362174 304=306659 erro=27
+[07:45] ciclo 863    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362231 304=306716 erro=27
+[07:46] ciclo 864    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362288 304=306773 erro=27
+[07:47] ciclo 865    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362345 304=306830 erro=27
+[07:48] ciclo 866    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362402 304=306887 erro=27
+[07:49] ciclo 867    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362459 304=306944 erro=27
+[07:50] ciclo 868    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362516 304=307001 erro=27
+[07:51] ciclo 869    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362573 304=307058 erro=27
+[07:52] ciclo 870    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362630 304=307115 erro=27
+[07:53] ciclo 871    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362687 304=307172 erro=27
+[07:54] ciclo 872    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362744 304=307229 erro=27
+[07:55] ciclo 873    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362801 304=307286 erro=27
+[07:56] ciclo 874    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362858 304=307343 erro=27
+[07:57] ciclo 875    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362915 304=307400 erro=27
+[07:58] ciclo 876    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 362972 304=307457 erro=27
+[07:59] ciclo 877    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363029 304=307514 erro=27
+[08:00] ciclo 878    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363086 304=307571 erro=27
+[08:01] ciclo 879    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363143 304=307628 erro=27
+[08:02] ciclo 880    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363200 304=307685 erro=27
+[08:03] ciclo 881    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363257 304=307742 erro=27
+[08:04] ciclo 882    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363314 304=307799 erro=27
+[08:05] ciclo 883    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363371 304=307856 erro=27
+[08:06] ciclo 884    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363428 304=307913 erro=27
+[08:07] ciclo 885    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363485 304=307970 erro=27
+[08:08] ciclo 886    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363542 304=308027 erro=27
+[08:09] ciclo 887    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363599 304=308084 erro=27
+[08:10] ciclo 888    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363656 304=308141 erro=27
+[08:11] ciclo 889    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363713 304=308198 erro=27
+[08:12] ciclo 890    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363770 304=308255 erro=27
+[08:13] ciclo 891    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363827 304=308312 erro=27
+[08:14] ciclo 892    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363884 304=308369 erro=27
+[08:15] ciclo 893    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363941 304=308426 erro=27
+[08:16] ciclo 894    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 363998 304=308483 erro=27
+[08:17] ciclo 895    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364055 304=308540 erro=27
+[08:18] ciclo 896    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364112 304=308597 erro=27
+[08:19] ciclo 897    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364169 304=308654 erro=27
+[08:20] ciclo 898    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364226 304=308711 erro=27
+[08:21] ciclo 899    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364283 304=308768 erro=27
+[08:22] ciclo 900    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364340 304=308825 erro=27
+[08:23] ciclo 901    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364397 304=308882 erro=27
+[08:24] ciclo 902    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364454 304=308939 erro=27
+[08:25] ciclo 903    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364511 304=308996 erro=27
+[08:26] ciclo 904    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364568 304=309053 erro=27
+[08:27] ciclo 905    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364625 304=309110 erro=27
+[08:28] ciclo 906    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364682 304=309167 erro=27
+[08:29] ciclo 907    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364739 304=309224 erro=27
+[08:30] ciclo 908    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364796 304=309281 erro=27
+[08:31] ciclo 909    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364853 304=309338 erro=27
+[08:32] ciclo 910    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364910 304=309395 erro=27
+[08:33] ciclo 911    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 364967 304=309452 erro=27
+[08:34] ciclo 912    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365024 304=309509 erro=27
+[08:35] ciclo 913    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365081 304=309566 erro=27
+[08:36] ciclo 914    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365138 304=309623 erro=27
+[08:37] ciclo 915    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365195 304=309680 erro=27
+[08:38] ciclo 916    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365252 304=309737 erro=27
+[08:39] ciclo 917    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365309 304=309794 erro=27
+[08:40] ciclo 918    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365366 304=309851 erro=27
+[08:41] ciclo 919    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365423 304=309908 erro=27
+[08:42] ciclo 920    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365480 304=309965 erro=27
+[08:43] ciclo 921    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365537 304=310022 erro=27
+[08:44] ciclo 922    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365594 304=310079 erro=27
+[08:45] ciclo 923    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365651 304=310136 erro=27
+[08:46] ciclo 924    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365708 304=310193 erro=27
+[08:47] ciclo 925    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365765 304=310250 erro=27
+[08:48] ciclo 926    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365822 304=310307 erro=27
+[08:49] ciclo 927    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365879 304=310364 erro=27
+[08:50] ciclo 928    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365936 304=310421 erro=27
+[08:51] ciclo 929    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 365993 304=310478 erro=27
+[08:52] ciclo 930    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366050 304=310535 erro=27
+[08:53] ciclo 931    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366107 304=310592 erro=27
+[08:54] ciclo 932    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366164 304=310649 erro=27
+[08:55] ciclo 933    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366221 304=310706 erro=27
+[08:56] ciclo 934    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366278 304=310763 erro=27
+[08:57] ciclo 935    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366335 304=310820 erro=27
+[08:58] ciclo 936    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366392 304=310877 erro=27
+[08:59] ciclo 937    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366449 304=310934 erro=27
+[09:00] ciclo 938    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366506 304=310991 erro=27
+[09:01] ciclo 939    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366563 304=311048 erro=27
+[09:02] ciclo 940    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366620 304=311105 erro=27
+[09:03] ciclo 941    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366677 304=311162 erro=27
+[09:04] ciclo 942    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366734 304=311219 erro=27
+[09:05] ciclo 943    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366791 304=311276 erro=27
+[09:06] ciclo 944    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366848 304=311333 erro=27
+[09:07] ciclo 945    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366905 304=311390 erro=27
+[09:08] ciclo 946    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 366962 304=311447 erro=27
+[09:09] ciclo 947    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367019 304=311504 erro=27
+[09:10] ciclo 948    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367076 304=311561 erro=27
+[09:11] ciclo 949    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367133 304=311618 erro=27
+[09:12] ciclo 950    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367190 304=311675 erro=27
+[09:13] ciclo 951    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367247 304=311732 erro=27
+[09:14] ciclo 952    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367304 304=311789 erro=27
+[09:15] ciclo 953    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367361 304=311846 erro=27
+[09:16] ciclo 954    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367418 304=311903 erro=27
+[09:17] ciclo 955    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367475 304=311960 erro=27
+[09:18] ciclo 956    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367532 304=312017 erro=27
+[09:19] ciclo 957    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367589 304=312074 erro=27
+[09:20] ciclo 958    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367646 304=312131 erro=27
+[09:21] ciclo 959    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367703 304=312188 erro=27
+[09:22] ciclo 960    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367760 304=312245 erro=27
+[09:23] ciclo 961    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367817 304=312302 erro=27
+[09:24] ciclo 962    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367874 304=312359 erro=27
+[09:25] ciclo 963    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367931 304=312416 erro=27
+[09:26] ciclo 964    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 367988 304=312473 erro=27
+[09:27] ciclo 965    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368045 304=312530 erro=27
+[09:28] ciclo 966    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368102 304=312587 erro=27
+[09:29] ciclo 967    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368159 304=312644 erro=27
+[09:30] ciclo 968    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368216 304=312701 erro=27
+[09:31] ciclo 969    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368273 304=312758 erro=27
+[09:32] ciclo 970    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368330 304=312815 erro=27
+[09:33] ciclo 971    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368387 304=312872 erro=27
+[09:34] ciclo 972    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368444 304=312929 erro=27
+[09:35] ciclo 973    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368501 304=312986 erro=27
+[09:36] ciclo 974    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368558 304=313043 erro=27
+[09:37] ciclo 975    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368615 304=313100 erro=27
+[09:38] ciclo 976    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368672 304=313157 erro=27
+[09:39] ciclo 977    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368729 304=313214 erro=27
+[09:40] ciclo 978    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368786 304=313271 erro=27
+[09:41] ciclo 979    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368843 304=313328 erro=27
+[09:42] ciclo 980    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368900 304=313385 erro=27
+[09:43] ciclo 981    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 368957 304=313442 erro=27
+[09:44] ciclo 982    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369014 304=313499 erro=27
+[09:45] ciclo 983    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369071 304=313556 erro=27
+[09:46] ciclo 984    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369128 304=313613 erro=27
+[09:47] ciclo 985    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369185 304=313670 erro=27
+[09:48] ciclo 986    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369242 304=313727 erro=27
+[09:49] ciclo 987    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369299 304=313784 erro=27
+[09:50] ciclo 988    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369356 304=313841 erro=27
+[09:51] ciclo 989    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369413 304=313898 erro=27
+[09:52] ciclo 990    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369470 304=313955 erro=27
+[09:53] ciclo 991    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369527 304=314012 erro=27
+[09:55] ciclo 992   11s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369584 304=314069 erro=27
+[09:55] ciclo 993    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369641 304=314126 erro=27
+[09:56] ciclo 994    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369698 304=314183 erro=27
+[09:57] ciclo 995    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369755 304=314240 erro=27
+[09:58] ciclo 996    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369812 304=314297 erro=27
+[09:59] ciclo 997    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369869 304=314354 erro=27
+[10:00] ciclo 998    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369926 304=314411 erro=27
+[10:01] ciclo 999    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 369983 304=314468 erro=27
+[10:02] ciclo 1000    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370040 304=314525 erro=27
+[10:03] ciclo 1001    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370097 304=314582 erro=27
+[10:04] ciclo 1002    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370154 304=314639 erro=27
+[10:05] ciclo 1003    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370211 304=314696 erro=27
+[10:06] ciclo 1004    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370268 304=314753 erro=27
+[10:07] ciclo 1005    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370325 304=314810 erro=27
+[10:08] ciclo 1006    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370382 304=314867 erro=27
+[10:09] ciclo 1007    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370439 304=314924 erro=27
+[10:10] ciclo 1008    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370496 304=314981 erro=27
+[10:11] ciclo 1009    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370553 304=315038 erro=27
+[10:12] ciclo 1010    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370610 304=315095 erro=27
+[10:13] ciclo 1011    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370667 304=315152 erro=27
+[10:14] ciclo 1012    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370724 304=315209 erro=27
+[10:15] ciclo 1013    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370781 304=315266 erro=27
+[10:16] ciclo 1014    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370838 304=315323 erro=27
+[10:17] ciclo 1015    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370895 304=315380 erro=27
+[10:18] ciclo 1016    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 370952 304=315437 erro=27
+[10:19] ciclo 1017    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371009 304=315494 erro=27
+[10:20] ciclo 1018    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371066 304=315551 erro=27
+[10:21] ciclo 1019    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371123 304=315608 erro=27
+[10:22] ciclo 1020    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371180 304=315665 erro=27
+[10:23] ciclo 1021    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371237 304=315722 erro=27
+[10:24] ciclo 1022    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371294 304=315779 erro=27
+[10:25] ciclo 1023    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371351 304=315836 erro=27
+[10:26] ciclo 1024    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371408 304=315893 erro=27
+[10:27] ciclo 1025    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371465 304=315950 erro=27
+[10:28] ciclo 1026    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371522 304=316007 erro=27
+[10:29] ciclo 1027    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371579 304=316064 erro=27
+[10:30] ciclo 1028    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371636 304=316121 erro=27
+[10:31] ciclo 1029    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371693 304=316178 erro=27
+[10:32] ciclo 1030    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371750 304=316235 erro=27
+[10:33] ciclo 1031    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371807 304=316292 erro=27
+[10:34] ciclo 1032    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371864 304=316349 erro=27
+[10:35] ciclo 1033    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371921 304=316406 erro=27
+[10:36] ciclo 1034   10s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 371978 304=316463 erro=27
+[10:37] ciclo 1035    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372035 304=316520 erro=27
+[10:38] ciclo 1036    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372092 304=316577 erro=27
+[10:39] ciclo 1037    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372149 304=316634 erro=27
+[10:40] ciclo 1038    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372206 304=316691 erro=27
+[10:41] ciclo 1039    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372263 304=316748 erro=27
+[10:42] ciclo 1040    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372320 304=316805 erro=27
+[10:43] ciclo 1041    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372377 304=316862 erro=27
+[10:44] ciclo 1042    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372434 304=316919 erro=27
+[10:45] ciclo 1043    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372491 304=316976 erro=27
+[10:46] ciclo 1044    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372548 304=317033 erro=27
+[10:47] ciclo 1045    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372605 304=317090 erro=27
+[10:48] ciclo 1046    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372662 304=317147 erro=27
+[10:49] ciclo 1047    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372719 304=317204 erro=27
+[10:50] ciclo 1048    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372776 304=317261 erro=27
+[10:51] ciclo 1049    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372833 304=317318 erro=27
+[10:52] ciclo 1050    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372890 304=317375 erro=27
+[10:53] ciclo 1051    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 372947 304=317432 erro=27
+[10:54] ciclo 1052    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373004 304=317489 erro=27
+[10:55] ciclo 1053    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373061 304=317546 erro=27
+[10:56] ciclo 1054    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373118 304=317603 erro=27
+[10:57] ciclo 1055    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373175 304=317660 erro=27
+[10:58] ciclo 1056    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373232 304=317717 erro=27
+[10:59] ciclo 1057    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373289 304=317774 erro=27
+[11:00] ciclo 1058    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373346 304=317831 erro=27
+[11:01] ciclo 1059    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373403 304=317888 erro=27
+[11:02] ciclo 1060    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373460 304=317945 erro=27
+[11:03] ciclo 1061    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373517 304=318002 erro=27
+[11:04] ciclo 1062    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373574 304=318059 erro=27
+[11:05] ciclo 1063    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373631 304=318116 erro=27
+[11:06] ciclo 1064    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373688 304=318173 erro=27
+[11:07] ciclo 1065    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373745 304=318230 erro=27
+[11:08] ciclo 1066    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373802 304=318287 erro=27
+[11:09] ciclo 1067    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373859 304=318344 erro=27
+[11:10] ciclo 1068    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373916 304=318401 erro=27
+[11:11] ciclo 1069    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 373973 304=318458 erro=27
+[11:12] ciclo 1070    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374030 304=318515 erro=27
+[11:13] ciclo 1071    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374087 304=318572 erro=27
+[11:14] ciclo 1072    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374144 304=318629 erro=27
+[11:15] ciclo 1073    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374201 304=318686 erro=27
+[11:16] ciclo 1074    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374258 304=318743 erro=27
+[11:17] ciclo 1075    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374315 304=318800 erro=27
+[11:18] ciclo 1076    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374372 304=318857 erro=27
+[11:19] ciclo 1077    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374429 304=318914 erro=27
+[11:20] ciclo 1078    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374486 304=318971 erro=27
+[11:21] ciclo 1079    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374543 304=319028 erro=27
+[11:22] ciclo 1080    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374600 304=319085 erro=27
+[11:23] ciclo 1081    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374657 304=319142 erro=27
+[11:25] ciclo 1082   27s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 27 UFs, req 374714 304=319198 erro=28
+[11:25] ciclo 1083    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374771 304=319255 erro=28
+[11:26] ciclo 1084    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374828 304=319312 erro=28
+[11:27] ciclo 1085    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374885 304=319369 erro=28
+[11:28] ciclo 1086    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374942 304=319426 erro=28
+[11:29] ciclo 1087    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 374999 304=319483 erro=28
+[11:30] ciclo 1088    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375056 304=319540 erro=28
+[11:31] ciclo 1089    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375113 304=319597 erro=28
+[11:32] ciclo 1090    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375170 304=319654 erro=28
+[11:33] ciclo 1091    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375227 304=319711 erro=28
+[11:34] ciclo 1092    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375284 304=319768 erro=28
+[11:35] ciclo 1093    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375341 304=319825 erro=28
+[11:36] ciclo 1094    6s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375398 304=319882 erro=28
+[11:37] ciclo 1095    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375455 304=319939 erro=28
+[11:38] ciclo 1096    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375512 304=319996 erro=28
+[11:39] ciclo 1097    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375569 304=320053 erro=28
+[11:40] ciclo 1098    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375626 304=320110 erro=28
+[11:41] ciclo 1099    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375683 304=320167 erro=28
+[11:42] ciclo 1100    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375740 304=320224 erro=28
+[11:43] ciclo 1101    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375797 304=320281 erro=28
+[11:44] ciclo 1102    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375854 304=320338 erro=28
+[11:45] ciclo 1103    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375911 304=320395 erro=28
+[11:46] ciclo 1104    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 375968 304=320452 erro=28
+[11:47] ciclo 1105    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376025 304=320509 erro=28
+[11:48] ciclo 1106    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376082 304=320566 erro=28
+[11:49] ciclo 1107    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376139 304=320623 erro=28
+[11:50] ciclo 1108   10s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376196 304=320680 erro=28
+[11:51] ciclo 1109    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376253 304=320737 erro=28
+[11:52] ciclo 1110    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376310 304=320794 erro=28
+[11:53] ciclo 1111    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376367 304=320851 erro=28
+[11:54] ciclo 1112    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376424 304=320908 erro=28
+[11:55] ciclo 1113    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376481 304=320965 erro=28
+[11:56] ciclo 1114    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376538 304=321022 erro=28
+[11:57] ciclo 1115    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376595 304=321079 erro=28
+[11:58] ciclo 1116    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376652 304=321136 erro=28
+[12:00] ciclo 1117   11s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376709 304=321193 erro=28
+[12:00] ciclo 1118    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376766 304=321250 erro=28
+[12:01] ciclo 1119    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376823 304=321307 erro=28
+[12:02] ciclo 1120    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376880 304=321364 erro=28
+[12:03] ciclo 1121    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376937 304=321421 erro=28
+[12:04] ciclo 1122    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 376994 304=321478 erro=28
+[12:06] ciclo 1123   11s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377051 304=321535 erro=28
+[12:06] ciclo 1124    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377108 304=321592 erro=28
+[12:07] ciclo 1125    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377165 304=321649 erro=28
+[12:08] ciclo 1126    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377222 304=321706 erro=28
+[12:09] ciclo 1127    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377279 304=321763 erro=28
+[12:10] ciclo 1128   10s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377336 304=321820 erro=28
+[12:11] ciclo 1129    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377393 304=321877 erro=28
+[12:12] ciclo 1130    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377450 304=321934 erro=28
+[12:13] ciclo 1131    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377507 304=321991 erro=28
+[12:14] ciclo 1132    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377564 304=322048 erro=28
+[12:15] ciclo 1133    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377621 304=322105 erro=28
+[12:16] ciclo 1134    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377678 304=322162 erro=28
+[12:18] ciclo 1135   11s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377735 304=322219 erro=28
+[12:18] ciclo 1136    9s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377792 304=322276 erro=28
+[12:19] ciclo 1137    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377849 304=322333 erro=28
+[12:20] ciclo 1138    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377906 304=322390 erro=28
+[12:21] ciclo 1139    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 377963 304=322447 erro=28
+[12:22] ciclo 1140    8s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 378020 304=322504 erro=28
+[12:24] ciclo 1141   12s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 378077 304=322561 erro=28
+[12:24] ciclo 1142    7s | apurado 99.99% | PT 51.79 | proj PT 51.79 faixa 51.75-51.82 P(PT)=1.00 | 0+0 mun lidos, 0 seç. sem votos, 28 UFs, req 378134 304=322618 erro=28

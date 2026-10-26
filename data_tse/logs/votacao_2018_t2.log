@@ -1,0 +1,12 @@
+lendo votacao_secao_2018_BR.csv
+  2,000,000 linhas  2s
+  4,000,000 linhas  4s
+  6,000,000 linhas  6s
+  6,616,660 linhas  6s
+2018 votacao: 1795786 linhas, 454448 seções, votos: 115933451
+NR_VOTAVEL
+17    57797847
+13    47040906
+96     8608105
+95     2486593
+Name: QT_VOTOS, dtype: int32

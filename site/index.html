@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Apuração com projeção · 2º turno 2026</title>
+  <meta name="description" content="Apuração do TSE com projeção do resultado final do 2º turno, probabilidade de vitória e mudança desde o 1º turno, atualizada a cada minuto.">
+  <meta name="theme-color" content="#111318">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css?v=1792959588">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" defer></script>
+  <script src="app.js?v=1793040000" defer></script>
+</head>
+<body>
+<main class="pagina">
+  <header class="topo">
+    <p class="sobretitulo"><span id="eleicao">Eleições 2026 · Presidente · 2º turno</span> <span class="badge" id="ambiente" hidden>ensaio</span></p>
+    <h1>Quem vai ganhar?</h1>
+    <p class="status" id="status" aria-live="polite">Carregando…</p>
+  </header>
+
+  <section class="hero" id="hero" aria-label="Projeção do resultado final">
+    <div class="momento" id="momento" hidden>
+      <span id="momento-texto"></span>
+      <button class="botao" id="voltar-agora" type="button">Voltar ao agora</button>
+    </div>
+    <div class="cartoes" id="cartoes"></div>
+    <div class="prob" id="prob"></div>
+    <p class="situacao" id="situacao"></p>
+  </section>
+
+  <section class="painel" aria-labelledby="h-curva">
+    <div class="painel-topo">
+      <h2 id="h-curva">A noite em uma curva</h2>
+      <div class="seg" id="zoom" role="group" aria-label="Escala do eixo">
+        <button type="button" data-z="auto" class="ativo">zoom</button>
+        <button type="button" data-z="100">noite inteira</button>
+      </div>
+    </div>
+    <p class="dica-uso">Arraste sobre o gráfico para voltar no tempo.</p>
+    <div class="legenda" id="legenda"></div>
+    <div class="grafico" id="grafico" role="img" aria-label="Apurado e projeção ao longo da apuração"></div>
+    <input class="scrub" id="scrub" type="range" min="0" max="0" value="0" step="1" aria-label="Momento da apuração">
+    <p class="nota-eixo">Eixo horizontal: % do eleitorado nas seções já totalizadas pelo TSE. Linha cheia: apurado. Tracejada: projeção, com faixa de 90%.</p>
+    <div class="grafico mini" id="grafico-prob" role="img" aria-label="Probabilidade de vitória ao longo da noite"></div>
+    <p class="nota-eixo">Probabilidade de vitória ao longo da noite.</p>
+  </section>
+
+  <section class="painel" aria-labelledby="h-swing">
+    <h2 id="h-swing">O que mudou desde o 1º turno</h2>
+    <div class="kpis" id="kpis-swing"></div>
+    <div class="grafico" id="grafico-swing" role="img" aria-label="Mudança por estado em relação ao 1º turno"></div>
+    <p class="nota-eixo" id="nota-swing"></p>
+    <p class="nota-eixo" id="nota-outros"></p>
+  </section>
+
+  <section class="painel" aria-labelledby="h-estados">
+    <div class="painel-topo">
+      <h2 id="h-estados">Estados</h2>
+      <div class="seg" id="ordem" role="group" aria-label="Ordenar por">
+        <button type="button" data-k="margem" class="ativo">margem</button>
+        <button type="button" data-k="swing">mudança</button>
+        <button type="button" data-k="x">apurado</button>
+        <button type="button" data-k="uf">A–Z</button>
+      </div>
+    </div>
+    <div class="chips" id="regioes" role="group" aria-label="Região"></div>
+    <ol class="estados" id="estados"></ol>
+    <div class="detalhe" id="detalhe" hidden></div>
+  </section>
+
+  <section class="painel" aria-labelledby="h-part">
+    <h2 id="h-part">Participação</h2>
+    <div class="kpis" id="kpis-part"></div>
+  </section>
+
+  <details class="metodo">
+    <summary>Como a projeção é feita</summary>
+    <p><strong>Base.</strong> Cada seção eleitoral recebe o seu próprio resultado do 1º turno, duas semanas antes.</p>
+    <p><strong>Swing.</strong> Em cada município, comparamos o voto das seções já totalizadas com o que essas mesmas seções deram no 1º turno. A diferença (em razão log Lula/Flávio) é a mudança desde o 1º turno.</p>
+    <p><strong>Modelo.</strong> Uma regressão ponderada relaciona essa mudança ao perfil do 1º turno (razão Lula/Flávio, votos nos candidatos eliminados, porte do município), com coeficientes Brasil → região → UF e encolhimento. As seções que faltam recebem o 1º turno mais a mudança prevista pelo seu próprio perfil, com comparecimento e taxa de válidos ajustados pela UF.</p>
+    <p><strong>Incerteza.</strong> Dois bootstraps a cada ciclo: um reamostra municípios (variação amostral) e outro reamostra estados inteiros (quanto o swing varia entre UFs, o que domina enquanto faltam regiões), este ponderado pela fração do eleitorado ainda pendente. O desvio combinado dá a faixa de 90% e a probabilidade de vitória (distribuição normal em torno da projeção). Calibrado reproduzindo os 2ºs turnos de 2018 e 2022 na ordem real de chegada dos boletins: em 26 pontos de verificação a faixa cobriu o resultado final em todos. A projeção aparece a partir de 2% do eleitorado apurado; "definido matematicamente" quando a vantagem em votos supera o eleitorado que ainda falta.</p>
+    <p><strong>Validação.</strong> Replay dos 2ºs turnos passados com a mesma base (1º turno da mesma eleição, seção a seção): em 2022 o erro ficou abaixo de 0,5 p.p. a partir de 3% apurado (apurado bruto só chega lá perto de 98%) e em 2018 a partir de 0,5%. Pesquisas finais (Datafolha e Quaest, 23–24/10): Flávio 51% × Lula 49% dos válidos, usadas só como prior fraco do início.</p>
+    <p class="links">Método inspirado no trabalho de <a href="https://x.com/ro_mahl">Rodrigo Mahlmeister</a> para o 1º turno.</p>
+  </details>
+
+  <footer class="rodape">
+    <span>Dados: TSE (divulgação de resultados). Projeção não oficial.</span>
+    <span id="rodape-atualizado"></span>
+  </footer>
+</main>
+<div class="dica" id="dica" role="tooltip" hidden></div>
+</body>
+</html>

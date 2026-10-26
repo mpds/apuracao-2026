@@ -1,0 +1,1378 @@
+ac: 0 já gravadas, 2270 a baixar
+  ac: 500/2270 (27.6 seções/s)
+  ac: 1000/2270 (27.9 seções/s)
+  ac: 1500/2270 (28.4 seções/s)
+  ac: 2000/2270 (28.9 seções/s)
+ac: 2270 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+al: 0 já gravadas, 7101 a baixar
+  al: 500/7101 (27.2 seções/s)
+  al: 1000/7101 (28.0 seções/s)
+  al: 1500/7101 (28.5 seções/s)
+  al: 2000/7101 (28.7 seções/s)
+  al: 2500/7101 (29.3 seções/s)
+  al: 3000/7101 (30.2 seções/s)
+  al: 3500/7101 (30.1 seções/s)
+--rps 95 acima do teto; usando 90.
+ac: 2270 já gravadas, 0 a baixar
+ac: 0 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+al: 3752 já gravadas, 3349 a baixar
+  al: 500/3349 (43.4 seções/s)
+  al: 1000/3349 (44.2 seções/s)
+  al: 1500/3349 (44.2 seções/s)
+  al: 2000/3349 (44.4 seções/s)
+  al: 2500/3349 (44.6 seções/s)
+  al: 3000/3349 (44.5 seções/s)
+al: 3349 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+am: 0 já gravadas, 8157 a baixar
+  am: 500/8157 (42.9 seções/s)
+  am: 1000/8157 (44.1 seções/s)
+  am: 1500/8157 (44.6 seções/s)
+  am: 2000/8157 (44.4 seções/s)
+  am: 2500/8157 (44.5 seções/s)
+  am: 3000/8157 (44.5 seções/s)
+  am: 3500/8157 (44.5 seções/s)
+  am: 4000/8157 (44.6 seções/s)
+  am: 4500/8157 (44.7 seções/s)
+  am: 5000/8157 (44.7 seções/s)
+  am: 5500/8157 (44.7 seções/s)
+  am: 6000/8157 (44.7 seções/s)
+  am: 6500/8157 (44.7 seções/s)
+  am: 7000/8157 (44.7 seções/s)
+  am: 7500/8157 (44.7 seções/s)
+  am: 8000/8157 (44.7 seções/s)
+am: 8157 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+ap: 0 já gravadas, 1914 a baixar
+  ap: 500/1914 (44.1 seções/s)
+  ap: 1000/1914 (44.4 seções/s)
+  ap: 1500/1914 (44.6 seções/s)
+ap: 1914 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+ba: 0 já gravadas, 35476 a baixar
+  ba: 500/35476 (43.1 seções/s)
+  ba: 1000/35476 (44.0 seções/s)
+  ba: 1500/35476 (44.4 seções/s)
+  ba: 2000/35476 (44.5 seções/s)
+  ba: 2500/35476 (44.8 seções/s)
+  ba: 3000/35476 (44.6 seções/s)
+  ba: 3500/35476 (44.7 seções/s)
+  ba: 4000/35476 (44.7 seções/s)
+  ba: 4500/35476 (44.8 seções/s)
+  ba: 5000/35476 (44.8 seções/s)
+  ba: 5500/35476 (44.8 seções/s)
+  ba: 6000/35476 (44.8 seções/s)
+  ba: 6500/35476 (44.8 seções/s)
+  ba: 7000/35476 (44.8 seções/s)
+  ba: 7500/35476 (44.8 seções/s)
+  ba: 8000/35476 (44.9 seções/s)
+  ba: 8500/35476 (44.9 seções/s)
+  ba: 9000/35476 (44.8 seções/s)
+  ba: 9500/35476 (44.9 seções/s)
+  ba: 10000/35476 (44.9 seções/s)
+  ba: 10500/35476 (44.9 seções/s)
+  ba: 11000/35476 (44.9 seções/s)
+  ba: 11500/35476 (44.9 seções/s)
+  ba: 12000/35476 (44.9 seções/s)
+  ba: 12500/35476 (44.9 seções/s)
+  ba: 13000/35476 (44.9 seções/s)
+  ba: 13500/35476 (44.9 seções/s)
+  ba: 14000/35476 (44.9 seções/s)
+  ba: 14500/35476 (44.9 seções/s)
+  ba: 15000/35476 (44.9 seções/s)
+  ba: 15500/35476 (44.9 seções/s)
+  ba: 16000/35476 (44.9 seções/s)
+  ba: 16500/35476 (44.9 seções/s)
+  ba: 17000/35476 (44.9 seções/s)
+  ba: 17500/35476 (44.9 seções/s)
+  ba: 18000/35476 (44.9 seções/s)
+  ba: 18500/35476 (44.9 seções/s)
+  ba: 19000/35476 (44.9 seções/s)
+  ba: 19500/35476 (44.9 seções/s)
+  ba: 20000/35476 (44.9 seções/s)
+  ba: 20500/35476 (44.9 seções/s)
+  ba: 21000/35476 (44.9 seções/s)
+  ba: 21500/35476 (44.9 seções/s)
+  ba: 22000/35476 (44.9 seções/s)
+  ba: 22500/35476 (44.9 seções/s)
+  ba: 23000/35476 (44.9 seções/s)
+  ba: 23500/35476 (44.9 seções/s)
+  ba: 24000/35476 (44.9 seções/s)
+  ba: 24500/35476 (44.9 seções/s)
+  ba: 25000/35476 (44.9 seções/s)
+  ba: 25500/35476 (44.9 seções/s)
+  ba: 26000/35476 (44.9 seções/s)
+  ba: 26500/35476 (44.9 seções/s)
+  ba: 27000/35476 (44.9 seções/s)
+  ba: 27500/35476 (44.9 seções/s)
+  ba: 28000/35476 (44.9 seções/s)
+  ba: 28500/35476 (44.9 seções/s)
+  ba: 29000/35476 (44.9 seções/s)
+  ba: 29500/35476 (44.9 seções/s)
+  ba: 30000/35476 (44.9 seções/s)
+  ba: 30500/35476 (44.9 seções/s)
+  ba: 31000/35476 (44.9 seções/s)
+  ba: 31500/35476 (44.9 seções/s)
+  ba: 32000/35476 (44.9 seções/s)
+  ba: 32500/35476 (44.9 seções/s)
+  ba: 33000/35476 (44.9 seções/s)
+  ba: 33500/35476 (44.9 seções/s)
+  ba: 34000/35476 (44.9 seções/s)
+  ba: 34500/35476 (44.9 seções/s)
+  ba: 35000/35476 (44.9 seções/s)
+ba: 35476 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+ce: 0 já gravadas, 23765 a baixar
+  ce: 500/23765 (44.5 seções/s)
+  ce: 1000/23765 (44.5 seções/s)
+  ce: 1500/23765 (44.6 seções/s)
+  ce: 2000/23765 (44.7 seções/s)
+  ce: 2500/23765 (44.5 seções/s)
+  ce: 3000/23765 (44.5 seções/s)
+  ce: 3500/23765 (44.6 seções/s)
+  ce: 4000/23765 (44.6 seções/s)
+  ce: 4500/23765 (44.7 seções/s)
+  ce: 5000/23765 (44.7 seções/s)
+  ce: 5500/23765 (44.7 seções/s)
+  ce: 6000/23765 (44.7 seções/s)
+  ce: 6500/23765 (44.7 seções/s)
+  ce: 7000/23765 (44.7 seções/s)
+  ce: 7500/23765 (44.7 seções/s)
+  ce: 8000/23765 (44.8 seções/s)
+  ce: 8500/23765 (44.8 seções/s)
+  ce: 9000/23765 (44.8 seções/s)
+  ce: 9500/23765 (44.8 seções/s)
+  ce: 10000/23765 (44.8 seções/s)
+  ce: 10500/23765 (44.8 seções/s)
+  ce: 11000/23765 (44.8 seções/s)
+  ce: 11500/23765 (44.8 seções/s)
+  ce: 12000/23765 (44.8 seções/s)
+  ce: 12500/23765 (44.8 seções/s)
+  ce: 13000/23765 (44.8 seções/s)
+  ce: 13500/23765 (44.8 seções/s)
+  ce: 14000/23765 (44.8 seções/s)
+  ce: 14500/23765 (44.8 seções/s)
+  ce: 15000/23765 (44.8 seções/s)
+  ce: 15500/23765 (44.8 seções/s)
+  ce: 16000/23765 (44.8 seções/s)
+  ce: 16500/23765 (44.8 seções/s)
+  ce: 17000/23765 (44.8 seções/s)
+  ce: 17500/23765 (44.9 seções/s)
+  ce: 18000/23765 (44.8 seções/s)
+  ce: 18500/23765 (44.8 seções/s)
+  ce: 19000/23765 (44.8 seções/s)
+  ce: 19500/23765 (44.9 seções/s)
+  ce: 20000/23765 (44.8 seções/s)
+  ce: 20500/23765 (44.9 seções/s)
+  ce: 21000/23765 (44.9 seções/s)
+  ce: 21500/23765 (44.9 seções/s)
+  ce: 22000/23765 (44.9 seções/s)
+  ce: 22500/23765 (44.9 seções/s)
+  ce: 23000/23765 (44.9 seções/s)
+  ce: 23500/23765 (44.9 seções/s)
+ce: 23765 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+df: 0 já gravadas, 6969 a baixar
+  df: 500/6969 (43.7 seções/s)
+  df: 1000/6969 (43.9 seções/s)
+  df: 1500/6969 (44.1 seções/s)
+  df: 2000/6969 (44.4 seções/s)
+  df: 2500/6969 (44.7 seções/s)
+  df: 3000/6969 (44.7 seções/s)
+  df: 3500/6969 (44.6 seções/s)
+  df: 4000/6969 (44.6 seções/s)
+  df: 4500/6969 (44.6 seções/s)
+  df: 5000/6969 (44.7 seções/s)
+  df: 5500/6969 (44.7 seções/s)
+  df: 6000/6969 (44.7 seções/s)
+  df: 6500/6969 (44.7 seções/s)
+df: 6969 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+es: 0 já gravadas, 9844 a baixar
+  es: 500/9844 (33.5 seções/s)
+  es: 1000/9844 (30.9 seções/s)
+  es: 1500/9844 (28.4 seções/s)
+  es: 2000/9844 (27.2 seções/s)
+  es: 2500/9844 (27.0 seções/s)
+  es: 3000/9844 (28.1 seções/s)
+  es: 3500/9844 (29.5 seções/s)
+  es: 4000/9844 (30.7 seções/s)
+  es: 4500/9844 (31.9 seções/s)
+  es: 5000/9844 (32.8 seções/s)
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  es: 5500/9844 (24.6 seções/s)
+  es: 6000/9844 (25.6 seções/s)
+  es: 6500/9844 (26.5 seções/s)
+  es: 7000/9844 (27.3 seções/s)
+  es: 7500/9844 (28.0 seções/s)
+  es: 8000/9844 (28.7 seções/s)
+  es: 8500/9844 (29.3 seções/s)
+  es: 9000/9844 (29.9 seções/s)
+  es: 9500/9844 (30.4 seções/s)
+es: 9844 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+go: 0 já gravadas, 15686 a baixar
+  go: 500/15686 (43.4 seções/s)
+  go: 1000/15686 (45.2 seções/s)
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0222/p003220-go-m92703-z0040-s0222-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0216/p003220-go-m92703-z0040-s0216-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0199/p003220-go-m92703-z0040-s0199-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0223/p003220-go-m92703-z0040-s0223-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0202/p003220-go-m92703-z0040-s0202-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0219/p003220-go-m92703-z0040-s0219-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0178/3368344255762d4b71317354564c614f6f3037533450376b6c6c2b78495156434535446f536148634241593d/o03220go9270300400178-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0190/6c516d526c724b5334333753566844533135766144674149586947475470367563676c53597873393444553d/o03220go9270300400190-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0203/p003220-go-m92703-z0040-s0203-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0180/4b63724e6672453551302d766a4832355a766d2d4a326177524b39744d55573541746471733975747951413d/o03220go9270300400180-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0192/38683849744a71616b51354e50336c3231346f303743324d7056533151305139345473306c414976554b303d/o03220go9270300400192-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0212/p003220-go-m92703-z0040-s0212-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0215/p003220-go-m92703-z0040-s0215-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0224/p003220-go-m92703-z0040-s0224-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0206/p003220-go-m92703-z0040-s0206-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0188/6e3243633961625776735550734a6a7676322d4b45656c7a30394b6977576c30334b762d45384b702d56343d/o03220go9270300400188-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0221/p003220-go-m92703-z0040-s0221-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0185/616c306a4757657673527332747a492d32464d7a4164746737625a34414c6b7430693346616f48546248413d/o03220go9270300400185-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0191/68324375346346775252545036437855625a7273472b6e457151476d524472664248693378414e65426d513d/o03220go9270300400191-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0189/2b35434d6a576e796237384f3263726b343349736937616e762b7336574b467652314979484337714848453d/o03220go9270300400189-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0193/p003220-go-m92703-z0040-s0193-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0182/6c383450513544455350686b365948436d4e616b674e3937496e307a6e4c6c4d5046696b637275354f7a493d/o03220go9270300400182-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0166/6e73564657464569566868392b4b6e7542755648474a6e554d4d2d584a336c51452d4e546c4874353344383d/o03220go9270300400166-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0186/63387943557831676c3331784e695555546e69736c6a2b64502b64775733684f4f647a4849544a473149493d/o03220go9270300400186-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0225/4a6b7634676e397a795772346f526d527838746f3869694e6245715345585a705867505278626c314d5a553d/o03220go9270300400225-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0207/364c77697a366f473744387932484146444746556c452d7073445178446d3344534a304557646a705a4f553d/o03220go9270300400207-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0196/3354626369385374576544684d595a5a69334a35436b43586c616865477670666b357541515143313535303d/o03220go9270300400196-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0210/5562434b42634a52462d715774323756394a777a5a4b634a346e7a7179586c71616178345a4851783645553d/o03220go9270300400210-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0226/p003220-go-m92703-z0040-s0226-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0195/42726e734c3145716a497561303568747a2b2d686255562d546a4e5239454c77396657446a6147517558733d/o03220go9270300400195-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0227/p003220-go-m92703-z0040-s0227-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0194/434e31462d436d686465443077394c3251485042354943617372443731465837736a75666f2b69795035733d/o03220go9270300400194-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0230/p003220-go-m92703-z0040-s0230-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0211/784d6c645862324e57543079725069672d6f6e514f56683549656451747059556d466332375074465233413d/o03220go9270300400211-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0200/484b396530767a4f33357869717333455645506e4b62647251354c746c336d615672535064686366684d633d/o03220go9270300400200-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0213/755150727348426d6530424849562d48546673487870714776544f4d7448626c774b795358766a6d6377343d/o03220go9270300400213-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0208/2d796b2d415435384746345a3473574a4b58632d516c5a3233686258374a75744d44714a596246463535553d/o03220go9270300400208-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0229/p003220-go-m92703-z0040-s0229-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0197/614544702b6c394469444c2b66396b377236763544786955473337455a426a4f414b443944436377374d773d/o03220go9270300400197-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0232/p003220-go-m92703-z0040-s0232-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0234/p003220-go-m92703-z0040-s0234-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0231/p003220-go-m92703-z0040-s0231-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0205/4e65665645486c385a6e364377594e772b65562d7236382d2b456b58557973716c7432434d627050792d413d/o03220go9270300400205-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0233/p003220-go-m92703-z0040-s0233-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0244/p003220-go-m92703-z0040-s0244-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0220/367a50465065437672694938415a46684c374c32637a6b794f507a5243652b684b6a725465667a585775453d/o03220go9270300400220-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0241/p003220-go-m92703-z0040-s0241-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0235/p003220-go-m92703-z0040-s0235-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0260/p003220-go-m92703-z0040-s0260-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0246/p003220-go-m92703-z0040-s0246-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0257/p003220-go-m92703-z0040-s0257-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0255/p003220-go-m92703-z0040-s0255-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0242/p003220-go-m92703-z0040-s0242-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0259/p003220-go-m92703-z0040-s0259-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0236/p003220-go-m92703-z0040-s0236-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0249/p003220-go-m92703-z0040-s0249-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0245/p003220-go-m92703-z0040-s0245-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0248/p003220-go-m92703-z0040-s0248-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0243/p003220-go-m92703-z0040-s0243-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0251/p003220-go-m92703-z0040-s0251-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0258/p003220-go-m92703-z0040-s0258-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0239/p003220-go-m92703-z0040-s0239-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0217/55544e70504f6d326e46375749427776494e4638724c64394d6d506c7a774a5230503239593144444362343d/o03220go9270300400217-bu.dat: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0238/p003220-go-m92703-z0040-s0238-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0261/p003220-go-m92703-z0040-s0261-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0253/p003220-go-m92703-z0040-s0253-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0254/p003220-go-m92703-z0040-s0254-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0237/p003220-go-m92703-z0040-s0237-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0256/p003220-go-m92703-z0040-s0256-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0250/p003220-go-m92703-z0040-s0250-aux.json: HTTP 429
+  TSE sinalizou bloqueio (HTTP 429); pausando 60s.
+  falhou /ele2026/arquivo-urna/3220/dados/go/92703/0040/0240/p003220-go-m92703-z0040-s0240-aux.json: HTTP 429
+  go: 1500/15686 (3.3 seções/s)
+  go: 2000/15686 (4.3 seções/s)
+  go: 2500/15686 (5.2 seções/s)
+  go: 3000/15686 (6.1 seções/s)
+  go: 3500/15686 (7.0 seções/s)
+  go: 4000/15686 (7.8 seções/s)
+  go: 4500/15686 (8.6 seções/s)
+  go: 5000/15686 (9.4 seções/s)
+  go: 5500/15686 (10.1 seções/s)
+  go: 6000/15686 (10.8 seções/s)
+  go: 6500/15686 (11.5 seções/s)
+  go: 7000/15686 (12.1 seções/s)
+  go: 7500/15686 (12.7 seções/s)
+  go: 8000/15686 (13.3 seções/s)
+  go: 8500/15686 (13.9 seções/s)
+  go: 9000/15686 (14.5 seções/s)
+  go: 9500/15686 (15.0 seções/s)
+  go: 10000/15686 (15.5 seções/s)
+  go: 10500/15686 (16.0 seções/s)
+  go: 11000/15686 (16.5 seções/s)
+  go: 11500/15686 (17.0 seções/s)
+  go: 12000/15686 (17.4 seções/s)
+  go: 12500/15686 (17.9 seções/s)
+  go: 13000/15686 (18.3 seções/s)
+  go: 13500/15686 (18.7 seções/s)
+  go: 14000/15686 (19.1 seções/s)
+  go: 14500/15686 (19.5 seções/s)
+  go: 15000/15686 (19.9 seções/s)
+  go: 15500/15686 (20.2 seções/s)
+go: 15615 seções com BU, 71 sem (não instaladas, anuladas ou falha)
+ma: 0 já gravadas, 18093 a baixar
+  ma: 500/18093 (43.2 seções/s)
+  ma: 1000/18093 (44.1 seções/s)
+  ma: 1500/18093 (44.6 seções/s)
+  ma: 2000/18093 (44.6 seções/s)
+  ma: 2500/18093 (44.4 seções/s)
+  ma: 3000/18093 (44.6 seções/s)
+  ma: 3500/18093 (44.7 seções/s)
+  ma: 4000/18093 (44.8 seções/s)
+  ma: 4500/18093 (44.7 seções/s)
+  ma: 5000/18093 (44.7 seções/s)
+  ma: 5500/18093 (44.8 seções/s)
+  ma: 6000/18093 (44.7 seções/s)
+  ma: 6500/18093 (44.7 seções/s)
+  ma: 7000/18093 (44.7 seções/s)
+  ma: 7500/18093 (44.8 seções/s)
+  ma: 8000/18093 (44.8 seções/s)
+  ma: 8500/18093 (44.8 seções/s)
+  ma: 9000/18093 (44.8 seções/s)
+  ma: 9500/18093 (44.8 seções/s)
+  ma: 10000/18093 (44.8 seções/s)
+  ma: 10500/18093 (44.8 seções/s)
+  ma: 11000/18093 (44.8 seções/s)
+  ma: 11500/18093 (44.8 seções/s)
+  ma: 12000/18093 (44.8 seções/s)
+  ma: 12500/18093 (44.8 seções/s)
+  ma: 13000/18093 (44.8 seções/s)
+  ma: 13500/18093 (44.8 seções/s)
+  ma: 14000/18093 (44.9 seções/s)
+  ma: 14500/18093 (44.9 seções/s)
+  ma: 15000/18093 (44.9 seções/s)
+  ma: 15500/18093 (44.9 seções/s)
+  ma: 16000/18093 (44.9 seções/s)
+  ma: 16500/18093 (44.9 seções/s)
+  ma: 17000/18093 (44.8 seções/s)
+  ma: 17500/18093 (44.9 seções/s)
+  ma: 18000/18093 (44.9 seções/s)
+ma: 18093 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+mg: 0 já gravadas, 52062 a baixar
+  mg: 500/52062 (43.8 seções/s)
+  mg: 1000/52062 (44.0 seções/s)
+  mg: 1500/52062 (44.5 seções/s)
+  mg: 2000/52062 (44.5 seções/s)
+  mg: 2500/52062 (44.6 seções/s)
+  mg: 3000/52062 (44.5 seções/s)
+  mg: 3500/52062 (44.6 seções/s)
+  mg: 4000/52062 (44.7 seções/s)
+  mg: 4500/52062 (44.7 seções/s)
+  mg: 5000/52062 (44.7 seções/s)
+  mg: 5500/52062 (44.8 seções/s)
+  mg: 6000/52062 (44.7 seções/s)
+  mg: 6500/52062 (44.8 seções/s)
+  mg: 7000/52062 (44.8 seções/s)
+  mg: 7500/52062 (44.8 seções/s)
+  mg: 8000/52062 (44.8 seções/s)
+  mg: 8500/52062 (44.8 seções/s)
+  mg: 9000/52062 (44.8 seções/s)
+  mg: 9500/52062 (44.8 seções/s)
+  mg: 10000/52062 (44.8 seções/s)
+  mg: 10500/52062 (44.8 seções/s)
+  mg: 11000/52062 (44.8 seções/s)
+  mg: 11500/52062 (44.8 seções/s)
+  mg: 12000/52062 (44.8 seções/s)
+  mg: 12500/52062 (44.8 seções/s)
+  mg: 13000/52062 (44.8 seções/s)
+  mg: 13500/52062 (44.8 seções/s)
+  mg: 14000/52062 (44.8 seções/s)
+  mg: 14500/52062 (44.9 seções/s)
+  mg: 15000/52062 (44.8 seções/s)
+  mg: 15500/52062 (44.9 seções/s)
+  mg: 16000/52062 (44.9 seções/s)
+  mg: 16500/52062 (44.9 seções/s)
+  mg: 17000/52062 (44.9 seções/s)
+  mg: 17500/52062 (44.9 seções/s)
+  mg: 18000/52062 (44.9 seções/s)
+  mg: 18500/52062 (44.9 seções/s)
+  mg: 19000/52062 (44.9 seções/s)
+  mg: 19500/52062 (44.9 seções/s)
+  mg: 20000/52062 (44.9 seções/s)
+  mg: 20500/52062 (44.9 seções/s)
+  mg: 21000/52062 (44.9 seções/s)
+  mg: 21500/52062 (44.9 seções/s)
+  mg: 22000/52062 (44.9 seções/s)
+  mg: 22500/52062 (44.9 seções/s)
+  mg: 23000/52062 (44.9 seções/s)
+  mg: 23500/52062 (44.9 seções/s)
+  mg: 24000/52062 (44.9 seções/s)
+  mg: 24500/52062 (44.9 seções/s)
+  mg: 25000/52062 (44.9 seções/s)
+  mg: 25500/52062 (44.9 seções/s)
+  mg: 26000/52062 (44.9 seções/s)
+  mg: 26500/52062 (44.9 seções/s)
+  mg: 27000/52062 (44.9 seções/s)
+  mg: 27500/52062 (44.9 seções/s)
+  mg: 28000/52062 (44.9 seções/s)
+  mg: 28500/52062 (44.9 seções/s)
+  mg: 29000/52062 (44.9 seções/s)
+  mg: 29500/52062 (44.9 seções/s)
+  mg: 30000/52062 (44.9 seções/s)
+  mg: 30500/52062 (44.9 seções/s)
+  mg: 31000/52062 (44.9 seções/s)
+  mg: 31500/52062 (44.9 seções/s)
+  mg: 32000/52062 (44.9 seções/s)
+  mg: 32500/52062 (44.9 seções/s)
+  mg: 33000/52062 (44.9 seções/s)
+  mg: 33500/52062 (44.9 seções/s)
+  mg: 34000/52062 (44.9 seções/s)
+  mg: 34500/52062 (44.9 seções/s)
+  mg: 35000/52062 (44.9 seções/s)
+  mg: 35500/52062 (44.9 seções/s)
+  mg: 36000/52062 (44.9 seções/s)
+  mg: 36500/52062 (44.9 seções/s)
+  mg: 37000/52062 (44.9 seções/s)
+  mg: 37500/52062 (44.9 seções/s)
+  mg: 38000/52062 (44.9 seções/s)
+  mg: 38500/52062 (44.9 seções/s)
+  mg: 39000/52062 (44.9 seções/s)
+  mg: 39500/52062 (44.9 seções/s)
+  mg: 40000/52062 (44.9 seções/s)
+  mg: 40500/52062 (44.9 seções/s)
+  mg: 41000/52062 (44.9 seções/s)
+  mg: 41500/52062 (44.9 seções/s)
+  mg: 42000/52062 (44.9 seções/s)
+  mg: 42500/52062 (44.9 seções/s)
+  mg: 43000/52062 (44.9 seções/s)
+  mg: 43500/52062 (44.9 seções/s)
+  mg: 44000/52062 (44.9 seções/s)
+  mg: 44500/52062 (44.9 seções/s)
+  mg: 45000/52062 (44.9 seções/s)
+  mg: 45500/52062 (44.9 seções/s)
+  mg: 46000/52062 (44.9 seções/s)
+  mg: 46500/52062 (44.9 seções/s)
+  mg: 47000/52062 (44.9 seções/s)
+  mg: 47500/52062 (44.9 seções/s)
+  mg: 48000/52062 (44.9 seções/s)
+  mg: 48500/52062 (44.9 seções/s)
+  mg: 49000/52062 (44.9 seções/s)
+  mg: 49500/52062 (44.9 seções/s)
+  mg: 50000/52062 (44.9 seções/s)
+  mg: 50500/52062 (44.9 seções/s)
+  mg: 51000/52062 (44.9 seções/s)
+  mg: 51500/52062 (44.9 seções/s)
+  mg: 52000/52062 (44.9 seções/s)
+mg: 52060 seções com BU, 2 sem (não instaladas, anuladas ou falha)
+ms: 0 já gravadas, 7106 a baixar
+  ms: 500/7106 (43.5 seções/s)
+  ms: 1000/7106 (44.1 seções/s)
+  ms: 1500/7106 (44.4 seções/s)
+  ms: 2000/7106 (44.3 seções/s)
+  ms: 2500/7106 (43.3 seções/s)
+  ms: 3000/7106 (43.7 seções/s)
+  ms: 3500/7106 (43.8 seções/s)
+  ms: 4000/7106 (43.8 seções/s)
+  ms: 4500/7106 (43.9 seções/s)
+  ms: 5000/7106 (44.1 seções/s)
+  ms: 5500/7106 (44.1 seções/s)
+  ms: 6000/7106 (44.2 seções/s)
+  ms: 6500/7106 (44.2 seções/s)
+  ms: 7000/7106 (44.3 seções/s)
+ms: 7106 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+mt: 0 já gravadas, 8287 a baixar
+  mt: 500/8287 (45.1 seções/s)
+  mt: 1000/8287 (27.4 seções/s)
+  mt: 1500/8287 (31.1 seções/s)
+  mt: 2000/8287 (33.5 seções/s)
+  mt: 2500/8287 (35.4 seções/s)
+  mt: 3000/8287 (36.7 seções/s)
+  mt: 3500/8287 (37.7 seções/s)
+  mt: 4000/8287 (38.4 seções/s)
+  mt: 4500/8287 (39.1 seções/s)
+  mt: 5000/8287 (39.7 seções/s)
+  mt: 5500/8287 (40.0 seções/s)
+  mt: 6000/8287 (40.4 seções/s)
+  mt: 6500/8287 (40.7 seções/s)
+  mt: 7000/8287 (40.9 seções/s)
+  mt: 7500/8287 (41.2 seções/s)
+  mt: 8000/8287 (41.4 seções/s)
+mt: 8287 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+pa: 0 já gravadas, 20827 a baixar
+  pa: 500/20827 (44.9 seções/s)
+  pa: 1000/20827 (44.7 seções/s)
+  pa: 1500/20827 (45.0 seções/s)
+  pa: 2000/20827 (44.7 seções/s)
+  pa: 2500/20827 (44.9 seções/s)
+  pa: 3000/20827 (44.6 seções/s)
+  pa: 3500/20827 (44.6 seções/s)
+  pa: 4000/20827 (44.7 seções/s)
+  pa: 4500/20827 (44.8 seções/s)
+  pa: 5000/20827 (44.8 seções/s)
+  pa: 5500/20827 (44.8 seções/s)
+  pa: 6000/20827 (44.9 seções/s)
+  pa: 6500/20827 (44.9 seções/s)
+  pa: 7000/20827 (44.8 seções/s)
+  pa: 7500/20827 (44.9 seções/s)
+  pa: 8000/20827 (44.8 seções/s)
+  pa: 8500/20827 (44.8 seções/s)
+  pa: 9000/20827 (44.8 seções/s)
+  pa: 9500/20827 (44.8 seções/s)
+  pa: 10000/20827 (44.8 seções/s)
+  pa: 10500/20827 (44.8 seções/s)
+  pa: 11000/20827 (44.8 seções/s)
+  pa: 11500/20827 (44.8 seções/s)
+  pa: 12000/20827 (44.8 seções/s)
+  pa: 12500/20827 (44.9 seções/s)
+  pa: 13000/20827 (44.9 seções/s)
+  pa: 13500/20827 (44.8 seções/s)
+  pa: 14000/20827 (44.8 seções/s)
+  pa: 14500/20827 (44.8 seções/s)
+  pa: 15000/20827 (44.8 seções/s)
+  pa: 15500/20827 (44.9 seções/s)
+  pa: 16000/20827 (44.9 seções/s)
+  pa: 16500/20827 (44.9 seções/s)
+  pa: 17000/20827 (44.9 seções/s)
+  pa: 17500/20827 (44.9 seções/s)
+  pa: 18000/20827 (44.9 seções/s)
+  pa: 18500/20827 (44.9 seções/s)
+  pa: 19000/20827 (44.9 seções/s)
+  pa: 19500/20827 (44.9 seções/s)
+  pa: 20000/20827 (44.9 seções/s)
+  pa: 20500/20827 (44.9 seções/s)
+  falhou /ele2026/arquivo-urna/3220/dados/pa/04600/0023/0843/4d57487256302d34674943526e4b366548455850706b4e746d6f506e63396c6375576d794a7941366c34513d/o03220pa0460000230843-bu.dat: The operation was aborted due to timeout
+pa: 20826 seções com BU, 1 sem (não instaladas, anuladas ou falha)
+pb: 0 já gravadas, 10712 a baixar
+  pb: 500/10712 (44.8 seções/s)
+  pb: 1000/10712 (44.5 seções/s)
+  pb: 1500/10712 (44.7 seções/s)
+  pb: 2000/10712 (44.6 seções/s)
+  pb: 2500/10712 (44.5 seções/s)
+  pb: 3000/10712 (44.9 seções/s)
+  pb: 3500/10712 (44.8 seções/s)
+  pb: 4000/10712 (44.8 seções/s)
+  pb: 4500/10712 (44.8 seções/s)
+  pb: 5000/10712 (44.8 seções/s)
+  pb: 5500/10712 (44.8 seções/s)
+  pb: 6000/10712 (44.9 seções/s)
+  pb: 6500/10712 (44.9 seções/s)
+  pb: 7000/10712 (44.9 seções/s)
+  pb: 7500/10712 (44.8 seções/s)
+  pb: 8000/10712 (44.9 seções/s)
+  pb: 8500/10712 (44.9 seções/s)
+  pb: 9000/10712 (44.9 seções/s)
+  pb: 9500/10712 (44.9 seções/s)
+  pb: 10000/10712 (44.9 seções/s)
+  pb: 10500/10712 (44.9 seções/s)
+pb: 10712 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+pe: 0 já gravadas, 21418 a baixar
+  pe: 500/21418 (43.4 seções/s)
+  pe: 1000/21418 (44.1 seções/s)
+  pe: 1500/21418 (44.4 seções/s)
+  pe: 2000/21418 (44.5 seções/s)
+  pe: 2500/21418 (44.6 seções/s)
+  pe: 3000/21418 (44.5 seções/s)
+  pe: 3500/21418 (44.6 seções/s)
+  pe: 4000/21418 (44.7 seções/s)
+  pe: 4500/21418 (44.8 seções/s)
+  pe: 5000/21418 (44.8 seções/s)
+  pe: 5500/21418 (44.8 seções/s)
+  pe: 6000/21418 (44.8 seções/s)
+  pe: 6500/21418 (44.8 seções/s)
+  pe: 7000/21418 (44.8 seções/s)
+  pe: 7500/21418 (44.8 seções/s)
+  pe: 8000/21418 (44.8 seções/s)
+  pe: 8500/21418 (44.8 seções/s)
+  pe: 9000/21418 (44.8 seções/s)
+  pe: 9500/21418 (44.9 seções/s)
+  pe: 10000/21418 (44.9 seções/s)
+  pe: 10500/21418 (44.9 seções/s)
+  pe: 11000/21418 (44.8 seções/s)
+  pe: 11500/21418 (44.9 seções/s)
+  pe: 12000/21418 (44.9 seções/s)
+  pe: 12500/21418 (44.8 seções/s)
+  pe: 13000/21418 (44.9 seções/s)
+  pe: 13500/21418 (44.9 seções/s)
+  pe: 14000/21418 (44.9 seções/s)
+  pe: 14500/21418 (44.9 seções/s)
+  pe: 15000/21418 (44.9 seções/s)
+  pe: 15500/21418 (44.9 seções/s)
+  pe: 16000/21418 (44.9 seções/s)
+  pe: 16500/21418 (44.9 seções/s)
+  pe: 17000/21418 (44.9 seções/s)
+  pe: 17500/21418 (44.9 seções/s)
+  pe: 18000/21418 (44.9 seções/s)
+  pe: 18500/21418 (44.9 seções/s)
+  pe: 19000/21418 (44.9 seções/s)
+  pe: 19500/21418 (44.9 seções/s)
+  pe: 20000/21418 (44.9 seções/s)
+  pe: 20500/21418 (44.9 seções/s)
+  pe: 21000/21418 (44.9 seções/s)
+pe: 21418 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+pi: 0 já gravadas, 10225 a baixar
+  pi: 500/10225 (45.1 seções/s)
+  pi: 1000/10225 (44.5 seções/s)
+  pi: 1500/10225 (44.8 seções/s)
+  pi: 2000/10225 (44.8 seções/s)
+  pi: 2500/10225 (44.5 seções/s)
+  pi: 3000/10225 (44.7 seções/s)
+  pi: 3500/10225 (44.6 seções/s)
+  pi: 4000/10225 (44.8 seções/s)
+  pi: 4500/10225 (44.9 seções/s)
+  pi: 5000/10225 (44.9 seções/s)
+  pi: 5500/10225 (44.8 seções/s)
+  pi: 6000/10225 (44.8 seções/s)
+  pi: 6500/10225 (44.8 seções/s)
+  pi: 7000/10225 (44.9 seções/s)
+  pi: 7500/10225 (44.8 seções/s)
+  pi: 8000/10225 (44.8 seções/s)
+  pi: 8500/10225 (44.8 seções/s)
+  pi: 9000/10225 (44.9 seções/s)
+  pi: 9500/10225 (44.8 seções/s)
+  pi: 10000/10225 (44.9 seções/s)
+pi: 10225 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+pr: 0 já gravadas, 27142 a baixar
+  pr: 500/27142 (45.1 seções/s)
+  pr: 1000/27142 (44.9 seções/s)
+  pr: 1500/27142 (44.8 seções/s)
+  pr: 2000/27142 (44.6 seções/s)
+  pr: 2500/27142 (44.8 seções/s)
+  pr: 3000/27142 (44.6 seções/s)
+  pr: 3500/27142 (44.7 seções/s)
+  pr: 4000/27142 (44.7 seções/s)
+  pr: 4500/27142 (44.8 seções/s)
+  pr: 5000/27142 (44.9 seções/s)
+  pr: 5500/27142 (44.8 seções/s)
+  pr: 6000/27142 (44.9 seções/s)
+  pr: 6500/27142 (44.9 seções/s)
+  pr: 7000/27142 (44.9 seções/s)
+  pr: 7500/27142 (44.8 seções/s)
+  pr: 8000/27142 (44.8 seções/s)
+  pr: 8500/27142 (44.8 seções/s)
+  pr: 9000/27142 (44.9 seções/s)
+  pr: 9500/27142 (44.9 seções/s)
+  pr: 10000/27142 (44.9 seções/s)
+  pr: 10500/27142 (44.9 seções/s)
+  pr: 11000/27142 (44.9 seções/s)
+  pr: 11500/27142 (44.9 seções/s)
+  pr: 12000/27142 (44.8 seções/s)
+  pr: 12500/27142 (44.8 seções/s)
+  pr: 13000/27142 (44.9 seções/s)
+  pr: 13500/27142 (44.9 seções/s)
+  pr: 14000/27142 (44.9 seções/s)
+  pr: 14500/27142 (44.9 seções/s)
+  pr: 15000/27142 (44.9 seções/s)
+  pr: 15500/27142 (44.9 seções/s)
+  pr: 16000/27142 (44.9 seções/s)
+  pr: 16500/27142 (44.9 seções/s)
+  pr: 17000/27142 (44.9 seções/s)
+  pr: 17500/27142 (44.9 seções/s)
+  pr: 18000/27142 (44.9 seções/s)
+  pr: 18500/27142 (44.9 seções/s)
+  pr: 19000/27142 (44.9 seções/s)
+  pr: 19500/27142 (44.9 seções/s)
+  pr: 20000/27142 (44.9 seções/s)
+  pr: 20500/27142 (44.9 seções/s)
+  pr: 21000/27142 (44.9 seções/s)
+  pr: 21500/27142 (44.9 seções/s)
+  pr: 22000/27142 (44.9 seções/s)
+  pr: 22500/27142 (44.9 seções/s)
+  pr: 23000/27142 (44.9 seções/s)
+  pr: 23500/27142 (44.9 seções/s)
+  pr: 24000/27142 (44.9 seções/s)
+  pr: 24500/27142 (44.9 seções/s)
+  pr: 25000/27142 (44.9 seções/s)
+  pr: 25500/27142 (44.9 seções/s)
+  pr: 26000/27142 (44.9 seções/s)
+  pr: 26500/27142 (44.9 seções/s)
+  pr: 27000/27142 (44.9 seções/s)
+pr: 27142 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+rj: 0 já gravadas, 37675 a baixar
+  rj: 500/37675 (44.6 seções/s)
+  rj: 1000/37675 (44.6 seções/s)
+  rj: 1500/37675 (44.9 seções/s)
+  rj: 2000/37675 (44.8 seções/s)
+  rj: 2500/37675 (44.7 seções/s)
+  rj: 3000/37675 (44.8 seções/s)
+  rj: 3500/37675 (44.7 seções/s)
+  rj: 4000/37675 (44.8 seções/s)
+  rj: 4500/37675 (44.8 seções/s)
+  rj: 5000/37675 (44.8 seções/s)
+  rj: 5500/37675 (44.8 seções/s)
+  rj: 6000/37675 (44.9 seções/s)
+  rj: 6500/37675 (44.8 seções/s)
+  rj: 7000/37675 (44.9 seções/s)
+  rj: 7500/37675 (44.8 seções/s)
+  rj: 8000/37675 (44.9 seções/s)
+  rj: 8500/37675 (44.8 seções/s)
+  rj: 9000/37675 (44.9 seções/s)
+  rj: 9500/37675 (44.8 seções/s)
+  rj: 10000/37675 (44.9 seções/s)
+  rj: 10500/37675 (44.9 seções/s)
+  rj: 11000/37675 (44.9 seções/s)
+  rj: 11500/37675 (44.9 seções/s)
+  rj: 12000/37675 (44.9 seções/s)
+  rj: 12500/37675 (44.8 seções/s)
+  rj: 13000/37675 (44.9 seções/s)
+  rj: 13500/37675 (44.9 seções/s)
+  rj: 14000/37675 (44.9 seções/s)
+  rj: 14500/37675 (44.9 seções/s)
+  rj: 15000/37675 (44.9 seções/s)
+  rj: 15500/37675 (44.9 seções/s)
+  rj: 16000/37675 (44.9 seções/s)
+  rj: 16500/37675 (44.9 seções/s)
+  rj: 17000/37675 (44.9 seções/s)
+  rj: 17500/37675 (44.9 seções/s)
+  rj: 18000/37675 (44.9 seções/s)
+  rj: 18500/37675 (44.9 seções/s)
+  rj: 19000/37675 (44.9 seções/s)
+  rj: 19500/37675 (44.9 seções/s)
+  rj: 20000/37675 (44.9 seções/s)
+  rj: 20500/37675 (44.9 seções/s)
+  rj: 21000/37675 (44.9 seções/s)
+  rj: 21500/37675 (44.9 seções/s)
+  rj: 22000/37675 (44.9 seções/s)
+  rj: 22500/37675 (44.9 seções/s)
+  rj: 23000/37675 (44.9 seções/s)
+  rj: 23500/37675 (44.9 seções/s)
+  rj: 24000/37675 (44.9 seções/s)
+  rj: 24500/37675 (44.9 seções/s)
+  rj: 25000/37675 (44.9 seções/s)
+  rj: 25500/37675 (44.9 seções/s)
+  rj: 26000/37675 (44.9 seções/s)
+  rj: 26500/37675 (44.9 seções/s)
+  rj: 27000/37675 (44.9 seções/s)
+  rj: 27500/37675 (44.9 seções/s)
+  rj: 28000/37675 (44.9 seções/s)
+  rj: 28500/37675 (44.9 seções/s)
+  rj: 29000/37675 (44.9 seções/s)
+  rj: 29500/37675 (44.9 seções/s)
+  rj: 30000/37675 (44.9 seções/s)
+  rj: 30500/37675 (44.9 seções/s)
+  rj: 31000/37675 (44.9 seções/s)
+  rj: 31500/37675 (44.9 seções/s)
+  rj: 32000/37675 (44.9 seções/s)
+  rj: 32500/37675 (44.9 seções/s)
+  rj: 33000/37675 (44.9 seções/s)
+  rj: 33500/37675 (44.9 seções/s)
+  rj: 34000/37675 (44.9 seções/s)
+  rj: 34500/37675 (44.9 seções/s)
+  rj: 35000/37675 (44.9 seções/s)
+  rj: 35500/37675 (44.9 seções/s)
+  rj: 36000/37675 (44.9 seções/s)
+  rj: 36500/37675 (44.9 seções/s)
+  rj: 37000/37675 (44.9 seções/s)
+  rj: 37500/37675 (44.9 seções/s)
+rj: 37675 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+rn: 0 já gravadas, 8115 a baixar
+  rn: 500/8115 (44.2 seções/s)
+  rn: 1000/8115 (44.4 seções/s)
+  rn: 1500/8115 (44.7 seções/s)
+  rn: 2000/8115 (44.8 seções/s)
+  rn: 2500/8115 (44.9 seções/s)
+  rn: 3000/8115 (44.8 seções/s)
+  rn: 3500/8115 (44.7 seções/s)
+  rn: 4000/8115 (44.7 seções/s)
+  rn: 4500/8115 (44.8 seções/s)
+  rn: 5000/8115 (44.8 seções/s)
+  rn: 5500/8115 (44.8 seções/s)
+  rn: 6000/8115 (44.8 seções/s)
+  rn: 6500/8115 (44.8 seções/s)
+  rn: 7000/8115 (44.9 seções/s)
+  rn: 7500/8115 (44.8 seções/s)
+  rn: 8000/8115 (44.8 seções/s)
+rn: 8115 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+ro: 0 já gravadas, 4698 a baixar
+  ro: 500/4698 (43.9 seções/s)
+  ro: 1000/4698 (44.6 seções/s)
+  ro: 1500/4698 (44.7 seções/s)
+  ro: 2000/4698 (44.7 seções/s)
+  ro: 2500/4698 (44.9 seções/s)
+  ro: 3000/4698 (44.7 seções/s)
+  ro: 3500/4698 (44.7 seções/s)
+  ro: 4000/4698 (44.8 seções/s)
+  ro: 4500/4698 (44.8 seções/s)
+ro: 4698 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+rr: 0 já gravadas, 1519 a baixar
+  rr: 500/1519 (44.3 seções/s)
+  rr: 1000/1519 (44.5 seções/s)
+  rr: 1500/1519 (44.7 seções/s)
+rr: 1519 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+rs: 0 já gravadas, 27547 a baixar
+  rs: 500/27547 (44.1 seções/s)
+  rs: 1000/27547 (44.4 seções/s)
+  rs: 1500/27547 (44.6 seções/s)
+  rs: 2000/27547 (44.7 seções/s)
+  rs: 2500/27547 (44.8 seções/s)
+  rs: 3000/27547 (44.7 seções/s)
+  rs: 3500/27547 (44.6 seções/s)
+  rs: 4000/27547 (44.7 seções/s)
+  rs: 4500/27547 (44.8 seções/s)
+  rs: 5000/27547 (44.8 seções/s)
+  rs: 5500/27547 (44.8 seções/s)
+  rs: 6000/27547 (44.8 seções/s)
+  rs: 6500/27547 (44.8 seções/s)
+  rs: 7000/27547 (44.8 seções/s)
+  rs: 7500/27547 (44.9 seções/s)
+  rs: 8000/27547 (44.8 seções/s)
+  rs: 8500/27547 (44.8 seções/s)
+  rs: 9000/27547 (44.8 seções/s)
+  rs: 9500/27547 (44.8 seções/s)
+  rs: 10000/27547 (44.9 seções/s)
+  rs: 10500/27547 (44.9 seções/s)
+  rs: 11000/27547 (44.9 seções/s)
+  rs: 11500/27547 (44.9 seções/s)
+  rs: 12000/27547 (44.9 seções/s)
+  rs: 12500/27547 (44.8 seções/s)
+  rs: 13000/27547 (44.8 seções/s)
+  rs: 13500/27547 (44.9 seções/s)
+  rs: 14000/27547 (44.9 seções/s)
+  rs: 14500/27547 (44.9 seções/s)
+  rs: 15000/27547 (44.9 seções/s)
+  rs: 15500/27547 (44.9 seções/s)
+  rs: 16000/27547 (44.9 seções/s)
+  rs: 16500/27547 (44.9 seções/s)
+  rs: 17000/27547 (44.9 seções/s)
+  rs: 17500/27547 (44.9 seções/s)
+  rs: 18000/27547 (44.9 seções/s)
+  rs: 18500/27547 (44.9 seções/s)
+  rs: 19000/27547 (44.9 seções/s)
+  rs: 19500/27547 (44.9 seções/s)
+  rs: 20000/27547 (44.9 seções/s)
+  rs: 20500/27547 (44.9 seções/s)
+  rs: 21000/27547 (44.9 seções/s)
+  rs: 21500/27547 (44.9 seções/s)
+  rs: 22000/27547 (44.9 seções/s)
+  rs: 22500/27547 (44.9 seções/s)
+  rs: 23000/27547 (44.9 seções/s)
+  rs: 23500/27547 (44.9 seções/s)
+  rs: 24000/27547 (44.9 seções/s)
+  rs: 24500/27547 (44.9 seções/s)
+  rs: 25000/27547 (44.9 seções/s)
+  rs: 25500/27547 (44.9 seções/s)
+  rs: 26000/27547 (44.9 seções/s)
+  rs: 26500/27547 (44.9 seções/s)
+  rs: 27000/27547 (44.9 seções/s)
+  rs: 27500/27547 (44.9 seções/s)
+rs: 27547 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+sc: 0 já gravadas, 17326 a baixar
+  sc: 500/17326 (44.6 seções/s)
+  sc: 1000/17326 (44.6 seções/s)
+  sc: 1500/17326 (44.8 seções/s)
+  sc: 2000/17326 (44.9 seções/s)
+  sc: 2500/17326 (44.9 seções/s)
+  sc: 3000/17326 (45.0 seções/s)
+  sc: 3500/17326 (44.7 seções/s)
+  sc: 4000/17326 (44.8 seções/s)
+  sc: 4500/17326 (44.8 seções/s)
+  sc: 5000/17326 (44.9 seções/s)
+  sc: 5500/17326 (44.9 seções/s)
+  sc: 6000/17326 (44.9 seções/s)
+  sc: 6500/17326 (44.9 seções/s)
+  sc: 7000/17326 (44.9 seções/s)
+  sc: 7500/17326 (44.9 seções/s)
+  sc: 8000/17326 (44.8 seções/s)
+  sc: 8500/17326 (44.8 seções/s)
+  sc: 9000/17326 (44.8 seções/s)
+  sc: 9500/17326 (44.9 seções/s)
+  sc: 10000/17326 (44.9 seções/s)
+  sc: 10500/17326 (44.9 seções/s)
+  sc: 11000/17326 (44.9 seções/s)
+  sc: 11500/17326 (44.9 seções/s)
+  sc: 12000/17326 (44.8 seções/s)
+  sc: 12500/17326 (44.8 seções/s)
+  sc: 13000/17326 (44.8 seções/s)
+  sc: 13500/17326 (44.9 seções/s)
+  sc: 14000/17326 (44.9 seções/s)
+  sc: 14500/17326 (44.9 seções/s)
+  sc: 15000/17326 (44.9 seções/s)
+  sc: 15500/17326 (44.9 seções/s)
+  sc: 16000/17326 (44.9 seções/s)
+  sc: 16500/17326 (44.9 seções/s)
+  sc: 17000/17326 (44.8 seções/s)
+sc: 17326 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+se: 0 já gravadas, 5923 a baixar
+  se: 500/5923 (43.3 seções/s)
+  se: 1000/5923 (44.2 seções/s)
+  se: 1500/5923 (44.6 seções/s)
+  se: 2000/5923 (44.7 seções/s)
+  se: 2500/5923 (44.6 seções/s)
+  se: 3000/5923 (44.7 seções/s)
+  se: 3500/5923 (44.7 seções/s)
+  se: 4000/5923 (44.7 seções/s)
+  se: 4500/5923 (44.7 seções/s)
+  se: 5000/5923 (44.7 seções/s)
+  se: 5500/5923 (44.8 seções/s)
+se: 5923 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+sp: 0 já gravadas, 103656 a baixar
+  sp: 500/103656 (44.6 seções/s)
+  sp: 1000/103656 (44.8 seções/s)
+  sp: 1500/103656 (44.7 seções/s)
+  sp: 2000/103656 (44.8 seções/s)
+  sp: 2500/103656 (44.9 seções/s)
+  sp: 3000/103656 (44.8 seções/s)
+  sp: 3500/103656 (44.6 seções/s)
+  sp: 4000/103656 (44.7 seções/s)
+  sp: 4500/103656 (44.8 seções/s)
+  sp: 5000/103656 (44.8 seções/s)
+  sp: 5500/103656 (44.8 seções/s)
+  sp: 6000/103656 (44.8 seções/s)
+  sp: 6500/103656 (44.8 seções/s)
+  sp: 7000/103656 (44.8 seções/s)
+  sp: 7500/103656 (44.8 seções/s)
+  sp: 8000/103656 (44.8 seções/s)
+  sp: 8500/103656 (44.8 seções/s)
+  sp: 9000/103656 (44.8 seções/s)
+  sp: 9500/103656 (44.8 seções/s)
+  sp: 10000/103656 (44.8 seções/s)
+  sp: 10500/103656 (44.9 seções/s)
+  sp: 11000/103656 (44.9 seções/s)
+  sp: 11500/103656 (44.9 seções/s)
+  sp: 12000/103656 (44.8 seções/s)
+  sp: 12500/103656 (44.8 seções/s)
+  sp: 13000/103656 (44.8 seções/s)
+  sp: 13500/103656 (44.9 seções/s)
+  sp: 14000/103656 (44.9 seções/s)
+  sp: 14500/103656 (44.9 seções/s)
+  sp: 15000/103656 (44.9 seções/s)
+  sp: 15500/103656 (44.9 seções/s)
+  sp: 16000/103656 (44.9 seções/s)
+  sp: 16500/103656 (44.9 seções/s)
+  sp: 17000/103656 (44.9 seções/s)
+  sp: 17500/103656 (44.9 seções/s)
+  sp: 18000/103656 (44.9 seções/s)
+  sp: 18500/103656 (44.9 seções/s)
+  sp: 19000/103656 (44.9 seções/s)
+  sp: 19500/103656 (44.9 seções/s)
+  sp: 20000/103656 (44.9 seções/s)
+  sp: 20500/103656 (44.9 seções/s)
+  sp: 21000/103656 (44.9 seções/s)
+  sp: 21500/103656 (44.9 seções/s)
+  sp: 22000/103656 (44.9 seções/s)
+  sp: 22500/103656 (44.9 seções/s)
+  sp: 23000/103656 (44.9 seções/s)
+  sp: 23500/103656 (44.9 seções/s)
+  sp: 24000/103656 (44.9 seções/s)
+  sp: 24500/103656 (44.9 seções/s)
+  sp: 25000/103656 (44.9 seções/s)
+  sp: 25500/103656 (44.9 seções/s)
+  sp: 26000/103656 (44.9 seções/s)
+  sp: 26500/103656 (44.9 seções/s)
+  sp: 27000/103656 (44.9 seções/s)
+  sp: 27500/103656 (44.9 seções/s)
+  sp: 28000/103656 (44.9 seções/s)
+  sp: 28500/103656 (44.9 seções/s)
+  sp: 29000/103656 (44.9 seções/s)
+  sp: 29500/103656 (44.9 seções/s)
+  sp: 30000/103656 (44.9 seções/s)
+  sp: 30500/103656 (44.9 seções/s)
+  sp: 31000/103656 (44.9 seções/s)
+  sp: 31500/103656 (44.9 seções/s)
+  sp: 32000/103656 (44.9 seções/s)
+  sp: 32500/103656 (44.9 seções/s)
+  sp: 33000/103656 (44.9 seções/s)
+  sp: 33500/103656 (44.9 seções/s)
+  sp: 34000/103656 (44.9 seções/s)
+  sp: 34500/103656 (44.9 seções/s)
+  sp: 35000/103656 (44.9 seções/s)
+  sp: 35500/103656 (44.9 seções/s)
+  sp: 36000/103656 (44.9 seções/s)
+  sp: 36500/103656 (44.9 seções/s)
+  sp: 37000/103656 (44.9 seções/s)
+  sp: 37500/103656 (44.9 seções/s)
+  sp: 38000/103656 (44.9 seções/s)
+  sp: 38500/103656 (44.9 seções/s)
+  sp: 39000/103656 (44.9 seções/s)
+  sp: 39500/103656 (44.9 seções/s)
+  sp: 40000/103656 (44.9 seções/s)
+  sp: 40500/103656 (44.9 seções/s)
+  sp: 41000/103656 (44.9 seções/s)
+  sp: 41500/103656 (44.9 seções/s)
+  sp: 42000/103656 (44.9 seções/s)
+  sp: 42500/103656 (44.9 seções/s)
+  sp: 43000/103656 (44.9 seções/s)
+  sp: 43500/103656 (44.9 seções/s)
+  sp: 44000/103656 (44.9 seções/s)
+  sp: 44500/103656 (44.9 seções/s)
+  sp: 45000/103656 (44.9 seções/s)
+  sp: 45500/103656 (44.9 seções/s)
+  sp: 46000/103656 (44.9 seções/s)
+  sp: 46500/103656 (44.9 seções/s)
+  sp: 47000/103656 (44.9 seções/s)
+  sp: 47500/103656 (44.9 seções/s)
+  sp: 48000/103656 (44.9 seções/s)
+  sp: 48500/103656 (44.9 seções/s)
+  sp: 49000/103656 (44.9 seções/s)
+  sp: 49500/103656 (44.9 seções/s)
+  sp: 50000/103656 (44.9 seções/s)
+  sp: 50500/103656 (44.9 seções/s)
+  sp: 51000/103656 (44.9 seções/s)
+  sp: 51500/103656 (44.9 seções/s)
+  sp: 52000/103656 (44.9 seções/s)
+  sp: 52500/103656 (44.9 seções/s)
+  sp: 53000/103656 (44.9 seções/s)
+  sp: 53500/103656 (44.9 seções/s)
+  sp: 54000/103656 (44.9 seções/s)
+  sp: 54500/103656 (44.9 seções/s)
+  sp: 55000/103656 (44.9 seções/s)
+  sp: 55500/103656 (44.9 seções/s)
+  sp: 56000/103656 (44.9 seções/s)
+  sp: 56500/103656 (44.9 seções/s)
+  sp: 57000/103656 (44.9 seções/s)
+  sp: 57500/103656 (44.9 seções/s)
+  sp: 58000/103656 (44.9 seções/s)
+  sp: 58500/103656 (44.9 seções/s)
+  sp: 59000/103656 (44.9 seções/s)
+  sp: 59500/103656 (44.9 seções/s)
+  sp: 60000/103656 (44.9 seções/s)
+  sp: 60500/103656 (44.9 seções/s)
+  sp: 61000/103656 (44.9 seções/s)
+  sp: 61500/103656 (44.9 seções/s)
+  sp: 62000/103656 (44.9 seções/s)
+  sp: 62500/103656 (44.9 seções/s)
+  sp: 63000/103656 (44.9 seções/s)
+  sp: 63500/103656 (44.9 seções/s)
+  sp: 64000/103656 (44.9 seções/s)
+  sp: 64500/103656 (44.9 seções/s)
+  sp: 65000/103656 (44.9 seções/s)
+  sp: 65500/103656 (44.9 seções/s)
+  sp: 66000/103656 (44.9 seções/s)
+  sp: 66500/103656 (44.9 seções/s)
+  sp: 67000/103656 (44.9 seções/s)
+  sp: 67500/103656 (44.9 seções/s)
+  sp: 68000/103656 (44.9 seções/s)
+  sp: 68500/103656 (44.9 seções/s)
+  sp: 69000/103656 (44.9 seções/s)
+  sp: 69500/103656 (44.9 seções/s)
+  sp: 70000/103656 (44.9 seções/s)
+  sp: 70500/103656 (44.9 seções/s)
+  sp: 71000/103656 (44.9 seções/s)
+  sp: 71500/103656 (44.9 seções/s)
+  sp: 72000/103656 (44.9 seções/s)
+  sp: 72500/103656 (44.9 seções/s)
+  sp: 73000/103656 (44.9 seções/s)
+  sp: 73500/103656 (44.9 seções/s)
+  sp: 74000/103656 (44.9 seções/s)
+  sp: 74500/103656 (44.9 seções/s)
+  sp: 75000/103656 (44.9 seções/s)
+  sp: 75500/103656 (44.9 seções/s)
+  sp: 76000/103656 (44.9 seções/s)
+  sp: 76500/103656 (44.9 seções/s)
+  sp: 77000/103656 (44.9 seções/s)
+  sp: 77500/103656 (44.9 seções/s)
+  sp: 78000/103656 (44.9 seções/s)
+  sp: 78500/103656 (44.9 seções/s)
+  sp: 79000/103656 (44.9 seções/s)
+  sp: 79500/103656 (44.9 seções/s)
+  sp: 80000/103656 (44.9 seções/s)
+  falhou /ele2026/arquivo-urna/3220/dados/sp/71072/0006/0027/p003220-sp-m71072-z0006-s0027-aux.json: The operation was aborted due to timeout
+  sp: 80500/103656 (44.9 seções/s)
+  sp: 81000/103656 (44.9 seções/s)
+  sp: 81500/103656 (44.9 seções/s)
+  sp: 82000/103656 (44.9 seções/s)
+  sp: 82500/103656 (44.9 seções/s)
+  sp: 83000/103656 (44.9 seções/s)
+  sp: 83500/103656 (44.9 seções/s)
+  sp: 84000/103656 (44.9 seções/s)
+  sp: 84500/103656 (44.9 seções/s)
+  sp: 85000/103656 (44.9 seções/s)
+  sp: 85500/103656 (44.9 seções/s)
+  sp: 86000/103656 (44.9 seções/s)
+  sp: 86500/103656 (44.9 seções/s)
+  sp: 87000/103656 (44.9 seções/s)
+  sp: 87500/103656 (44.9 seções/s)
+  sp: 88000/103656 (44.9 seções/s)
+  sp: 88500/103656 (44.9 seções/s)
+  sp: 89000/103656 (44.9 seções/s)
+  sp: 89500/103656 (44.9 seções/s)
+  sp: 90000/103656 (44.9 seções/s)
+  sp: 90500/103656 (44.9 seções/s)
+  sp: 91000/103656 (44.9 seções/s)
+  sp: 91500/103656 (44.9 seções/s)
+  sp: 92000/103656 (44.9 seções/s)
+  sp: 92500/103656 (44.9 seções/s)
+  sp: 93000/103656 (44.9 seções/s)
+  sp: 93500/103656 (44.9 seções/s)
+  sp: 94000/103656 (44.9 seções/s)
+  sp: 94500/103656 (44.9 seções/s)
+  sp: 95000/103656 (44.9 seções/s)
+  sp: 95500/103656 (44.9 seções/s)
+  sp: 96000/103656 (44.9 seções/s)
+  sp: 96500/103656 (44.9 seções/s)
+  sp: 97000/103656 (44.9 seções/s)
+  sp: 97500/103656 (44.9 seções/s)
+  sp: 98000/103656 (44.9 seções/s)
+  sp: 98500/103656 (44.9 seções/s)
+  sp: 99000/103656 (44.9 seções/s)
+  sp: 99500/103656 (44.9 seções/s)
+  sp: 100000/103656 (44.9 seções/s)
+  sp: 100500/103656 (44.9 seções/s)
+  sp: 101000/103656 (44.9 seções/s)
+  sp: 101500/103656 (44.9 seções/s)
+  sp: 102000/103656 (44.9 seções/s)
+  sp: 102500/103656 (44.9 seções/s)
+  sp: 103000/103656 (44.9 seções/s)
+  sp: 103500/103656 (44.9 seções/s)
+sp: 103655 seções com BU, 1 sem (não instaladas, anuladas ou falha)
+to: 0 já gravadas, 4384 a baixar
+  to: 500/4384 (44.6 seções/s)
+  to: 1000/4384 (44.6 seções/s)
+  to: 1500/4384 (44.8 seções/s)
+  to: 2000/4384 (44.8 seções/s)
+  to: 2500/4384 (44.9 seções/s)
+  to: 3000/4384 (44.8 seções/s)
+  to: 3500/4384 (44.7 seções/s)
+  to: 4000/4384 (44.8 seções/s)
+to: 4384 seções com BU, 0 sem (não instaladas, anuladas ou falha)
+zz: 0 já gravadas, 1310 a baixar
+  zz: 500/1310 (44.7 seções/s)
+  zz: 1000/1310 (45.0 seções/s)
+zz: 1281 seções com BU, 29 sem (não instaladas, anuladas ou falha)
