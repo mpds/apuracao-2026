@@ -1,4 +1,4 @@
-# Apuração 2026 — projeção própria do 2º turno
+# Apuração 2026 — projeção do 2º turno
 
 Modelo de projeção para a noite do 2º turno presidencial de 25/10/2026 (Lula 13 × Flávio Bolsonaro 22), alimentado ao vivo pela
 divulgação oficial do TSE e exibido numa página local (http://localhost:8099). É uma reconstrução do método de Rodrigo Mahlmeister
